@@ -1,4 +1,4 @@
-# Python for a non-technical Audience
+# Python for a non technical audience
 A collection of Jupyter Notebooks for ESS245 Computational Geology. 
 These are specifically targeted to a non-technical audience with no
 previous computing experience.
