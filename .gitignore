@@ -1,12 +1,1 @@
 # ignore the following files
-*.tex
-*.bib
-*.el
-*.ind
-*.html
-*.ipynb
-_minted*
-auto
-.\#deploy.sh
-\#deploy.sh#
-\#*
