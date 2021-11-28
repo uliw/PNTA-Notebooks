@@ -1,0 +1,176 @@
+#+TITLE: Capstone Assignment
+#+AUTHOR:Ulrich G Wortmann
+#+OX-IPYNB-LANGUAGE: ipython
+#+STARTUP: showall 
+#+STARTUP: latexpreview
+#+OPTIONS: todo:nil tasks:nil tags:nil toc:nil
+#+PROPERTY: header-args :eval never-export
+#+EXCLUDE_TAGS: noexport
+
+* Introduction
+
+As part of my research, I occasionally go on expeditions with the JR Joides Resolution
+
+
+
+#+BEGIN_SRC ipython
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import statsmodels.formula.api as smf
+from statsmodels.stats.outliers_influence import summary_table
+from __future__ import annotations
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [2]: 
+:end:
+
+#+BEGIN_SRC ipython
+nh4_s :str = "72 144 336 596"
+abs_s :str = "75 150 512 1000"
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [3]: 
+:end:
+
+
+#+BEGIN_SRC ipython
+nh4_v: list[float] = list(map(float,nh4_s.split(" ")))
+abs_v: list[float] = list(map(float,abs_s.split(" ")))
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [4]: 
+:end:
+
+Confirm that the data in your lists is of type float
+
+#+BEGIN_SRC ipython
+c_data: tuple[number, number] = list(zip(abs_v, nh4_v))
+df: pd.dataframe = pd.DataFrame(c_data, columns=["x", "y"])
+print(df.head())
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [5]: 
+# output
+        x      y
+0    75.0   72.0
+1   150.0  144.0
+2   512.0  336.0
+3  1000.0  596.0
+
+:end:
+
+#+BEGIN_SRC ipython
+figure_name: str = "ammonium.png"  # figure name
+
+x_var_loc: int = 0  # colum # in spreadsheet
+y_var_loc: int = 1  # colum # in spreadsheer
+
+x_axis_label: str = "Absorbance"
+y_axis_label: str = "NH$_{4}^{+}$ [$\mu$ mol/l]"
+size_x: number = 6  # size in inches
+size_y: number = 4  # size in inches
+
+confidence_level: float = 0.05  # 1 - alpha in %
+
+#+BEGIN_SRC ipython
+st: SimpleTable  # table with results that can be printed
+data: np.ndarray  # calculated measures and statistics for the table
+yss2: list[str]  # column_names for table (Note: rows of table are observations)
+model_ci_low: np.ndarray
+model_ci_up: np.ndarray
+predict_mean_ci_low: np.ndarray
+predict_mean_ci_up: np.ndarray
+x: pd.Series = df.iloc[:, x_var_loc]
+y: pd.Series = df.iloc[:, y_var_loc]
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [6]: 
+:end:
+
+
+#+BEGIN_SRC ipython  
+
+# ------ create linear regression model ------
+model: smf.ols = smf.ols(formula="y ~ x", data=df)
+results: model.fit = model.fit()  # fit the model to the data
+
+# ------ extract model parameters
+slope: float = results.params[1]  # the slope
+y0: float = results.params[0]  # the y-intercept
+rsquare: float = results.rsquared  # rsquare
+pvalue: float = results.pvalues[1]  # the pvalue
+ds: str = (
+    f"y = {y0:1.4f}+x*{slope:1.4f}\n" f"$r^2$ = {rsquare:1.2f}\n" f"p = {pvalue:1.4f}"
+)
+
+# get ci data
+st, data, ss2 = summary_table(results, alpha=confidence_level)
+
+# extract regression line
+fitted_values: np.ndarray = data[:, 2]
+
+# extract confidence intervals for the model
+model_ci_low, model_ci_up = data[:, 4:6].T  #
+
+# extract confidence intervals for the predictions
+predict_mean_ci_low, predict_mean_ci_up = data[:, 6:8].T
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [59]: 
+:end:
+
+#+BEGIN_SRC ipython  
+
+fig: plt.Figure  # this variable  will hold the canvas object
+ax: plt.Axes  # this variable will hold the axis object
+fig, ax = plt.subplots()  # create canvas and axis objects
+
+# plot confidence intervals first
+ax.fill_between(x, predict_mean_ci_low, predict_mean_ci_up, alpha=0.1, color="C1")
+ax.fill_between(x, model_ci_low, model_ci_up, alpha=0.2, color="C1")
+
+# add data points
+ax.scatter(x, y, color="C0")
+
+# regression line
+ax.plot(x, fitted_values, color="C1")
+
+# plot options and annotations
+plt.style.use("ggplot")
+fig.set_size_inches(6, 4)
+fig.set_dpi(120)
+
+ypos :float = (ax.get_ylim()[1] - ax.get_ylim()[0]) * 0.9
+xpos :float = (ax.get_xlim()[1] - ax.get_xlim()[0]) * 0.02
+ax.text(xpos, ypos, ds, verticalalignment="top")
+ax.set_xlabel(x_axis_label)
+ax.set_ylabel(y_axis_label)
+fig.set_tight_layout("tight")
+fig.savefig(figure_name)
+plt.show()
+#+END_SRC
+
+#+RESULTS:
+:results:
+# Out [60]: 
+# text/plain
+: <Figure size 720x480 with 1 Axes>
+
+# image/png
+[[file:obipy-resources/cdd5396b2e5bb5179a5463b05e4f1576e92bbe85/05b73635a13633cdcf96b9e74a7844851af5f037.png]]
+:end:
+
+
