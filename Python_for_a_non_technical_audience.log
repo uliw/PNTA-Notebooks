@@ -1,0 +1,3691 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/TeX Live for SUSE Linux) (preloaded format=pdflatex 2022.9.4)  10 SEP 2022 10:11
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Python_for_a_non_technical_audience.tex
+(./Python_for_a_non_technical_audience.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/share/texmf/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2021/11/13 v3.35 KOMA-Script document class (book)
+(/usr/share/texmf/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texmf/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texmf/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texmf/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texmf/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/share/texmf/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Package scrbook Info: You've used standard option `11pt'.
+(scrbook)             This is correct!
+(scrbook)             Internally I'm using `fontsize=11pt'.
+(scrbook)             If you'd like to set the option with \KOMAoptions,
+(scrbook)             you'd have to use `fontsize=11pt' there
+(scrbook)             instead of `11pt', too.
+
+
+Class scrbook Warning: You've used obsolete option `idxtotoc'.
+(scrbook)              Usage of this option indicates an old document
+(scrbook)              and changes compatibility level using
+(scrbook)              `index=totoc,version=first,
+(scrbook)              enabledeprecatedfontcommands' that may result
+(scrbook)              in further warnings.
+(scrbook)              If you don't want this, you should simply
+(scrbook)              replace option `idxtotoc' by `index=totoc'.
+
+Class scrbook Info: Switching compatibility level to `first'.
+
+Class scrbook Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrbook)              Note, that this option was already depreacted when
+(scrbook)              it has been defined. Support for old font commands
+(scrbook)              has been removed from KOMA-Script more than one
+(scrbook)              decade ago. It is not recommended to use them any
+(scrbook)              longer. Therefore usage of this class option also
+(scrbook)              is not recommended.
+
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2490.
+(/usr/share/texmf/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt
+)
+)
+(/usr/share/texmf/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1743.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5715.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5726.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5726.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5735.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5745.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5745.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6962.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count193
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6978.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count194
+Class scrbook Info: Using old \@makefntext due to compatibility level
+(scrbook)           less than 3.22 on input line 7133.
+Class scrbook Info: Redefining `\numberline' on input line 7146.
+\bibindent=\dimen138
+)
+(/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texmf/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count195
+\LTcapwidth=\dimen141
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count196
+\LT@rows=\count197
+\c@LT@tables=\count198
+\c@LT@chunks=\count199
+\LT@p@ftn=\toks19
+)
+Class scrbook Info: longtable captions redefined on input line 9.
+
+(/usr/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks20
+\float@box=\box57
+\@float@everytoks=\toks21
+\@floatcapt=\box58
+)
+(/usr/share/texmf/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen142
+\WF@size=\dimen143
+\c@WF@wrappedlines=\count267
+\WF@box=\box59
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count268
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box60
+\rot@mess@toks=\toks23
+)
+(/usr/share/texmf/tex/generic/ulem/ulem.sty
+\UL@box=\box61
+\UL@hyphenbox=\box62
+\UL@skip=\skip70
+\UL@hook=\toks24
+\UL@height=\dimen144
+\UL@pe=\count269
+\UL@pixel=\dimen145
+\ULC@box=\box63
+Package: ulem 2019/11/18
+\ULdepth=\dimen146
+)
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen147
+))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks26
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks27
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks28
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texmf/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texmf/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(/usr/share/texmf/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/share/texmf/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(/usr/share/texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texmf/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(/usr/share/texmf/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(/usr/share/texmf/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texmf/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(/usr/share/texmf/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/share/texmf/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+runsystem(uname -s > "Python_for_a_non_technical_audience.w18")...executed.
+
+
+(./Python_for_a_non_technical_audience.w18)
+runsystem(rm -- "Python_for_a_non_technical_audience.w18")...executed.
+
+)
+\c@svg@param@lastpage=\count282
+\svg@box=\box66
+\c@svg@param@currpage=\count283
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texmf/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+(/usr/share/texmf/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+))
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen156
+\pgfutil@tempdimb=\dimen157
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box67
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen158
+\pgf@y=\dimen159
+\pgf@xa=\dimen160
+\pgf@ya=\dimen161
+\pgf@xb=\dimen162
+\pgf@yb=\dimen163
+\pgf@xc=\dimen164
+\pgf@yc=\dimen165
+\pgf@xd=\dimen166
+\pgf@yd=\dimen167
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count284
+\c@pgf@countb=\count285
+\c@pgf@countc=\count286
+\c@pgf@countd=\count287
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count288
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count289
+\pgfsyssoftpath@bigbuffer@items=\count290
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texmf/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen168
+\pgfmath@count=\count291
+\pgfmath@box=\box68
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code
+.tex))) (/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count292
+))
+(/usr/share/texmf/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen169
+\pgf@picmaxx=\dimen170
+\pgf@picminy=\dimen171
+\pgf@picmaxy=\dimen172
+\pgf@pathminx=\dimen173
+\pgf@pathmaxx=\dimen174
+\pgf@pathminy=\dimen175
+\pgf@pathmaxy=\dimen176
+\pgf@xx=\dimen177
+\pgf@xy=\dimen178
+\pgf@yx=\dimen179
+\pgf@yy=\dimen180
+\pgf@zx=\dimen181
+\pgf@zy=\dimen182
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen183
+\pgf@path@lasty=\dimen184
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen185
+\pgf@shorten@start@additional=\dimen186
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box69
+\pgf@hbox=\box70
+\pgf@layerbox@main=\box71
+\pgf@picture@serial@count=\count293
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen187
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen188
+\pgf@pt@y=\dimen189
+\pgf@pt@temp=\dimen190
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen191
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen192
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box72
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box73
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen193
+\pgf@nodesepend=\dimen194
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texmf/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read3
+)
+(/usr/share/texmf/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+)
+(/usr/share/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\tcb@titlebox=\box74
+\tcb@upperbox=\box75
+\tcb@lowerbox=\box76
+\tcb@phantombox=\box77
+\c@tcbbreakpart=\count297
+\c@tcblayer=\count298
+\c@tcolorbox@number=\count299
+\tcb@temp=\box78
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
+
+(/usr/share/texmf/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
+) (/usr/share/texmf/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen195
+\pgffor@skip=\dimen196
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count300
+\pgfplotmarksize=\dimen197
+)
+\tikz@lastx=\dimen198
+\tikz@lasty=\dimen199
+\tikz@lastxsaved=\dimen256
+\tikz@lastysaved=\dimen257
+\tikz@lastmovetox=\dimen258
+\tikz@lastmovetoy=\dimen259
+\tikzleveldistance=\dimen260
+\tikzsiblingdistance=\dimen261
+\tikz@figbox=\box82
+\tikz@figbox@bg=\box83
+\tikz@tempbox=\box84
+\tikz@tempbox@bg=\box85
+\tikztreelevel=\count301
+\tikznumberofchildren=\count302
+\tikznumberofcurrentchild=\count303
+\tikz@fig@count=\count304
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count305
+\pgfmatrixcurrentcolumn=\count306
+\pgf@matrix@numberofcolumns=\count307
+)
+\tikz@expandcount=\count308
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+\tcb@waterbox=\box86
+ (/usr/share/texmf/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+))) (/usr/share/texmf/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(/usr/share/texmf/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/usr/share/texmf/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box87
+))
+(/usr/share/texmf/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texmf/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count310
+\calc@Bcount=\count311
+\calc@Adimen=\dimen262
+\calc@Bdimen=\dimen263
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count312
+\calc@Cskip=\skip76
+)
+(/usr/share/texmf/tex/latex/chemgreek/chemgreek.sty
+(/usr/share/texmf/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count313
+\g__chemgreek_tmpa_int=\count314
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count315
+\__mhchem_arrow_extPgfLength_skip=\skip77
+\mhchem@minispace@tmp=\skip78
+\mhchem@minibackspace@tmp=\skip79
+\mhchem@bondwidth=\skip80
+\mhchem@bondheight=\skip81
+\mhchem@smallbondwidth@tmpA=\skip82
+\mhchem@smallbondwidth@tmpB=\skip83
+\mhchem@smallbondwidth=\skip84
+\mhchem@bondtmp@minussidebearingleft=\skip85
+\mhchem@bondtmp@minussidebearingright=\skip86
+\l__mhchem_option_version_int=\count316
+\mhchem@option@minusmathsidebearingleft=\dimen264
+\mhchem@option@minusmathsidebearingright=\dimen265
+\mhchem@option@minustextsidebearingleft=\dimen266
+\mhchem@option@minustextsidebearingright=\dimen267
+)
+(/usr/share/texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texmf/tex/latex/minted/minted.sty
+Package: minted 2021/12/24 v2.6 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texmf/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+
+(/usr/share/texmf/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count317
+\FV@InFile=\read4
+\FV@TabBox=\box88
+\c@FancyVerbLine=\count318
+\FV@StepNumber=\count319
+\FV@OutFile=\write4
+)
+(/usr/share/texmf/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/share/texmf/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count320
+\output=\toks44
+\linenoprevgraf=\count321
+\linenumbersep=\dimen268
+\linenumberwidth=\dimen269
+\c@linenumber=\count322
+\c@pagewiselinenumber=\count323
+\c@LN@truepage=\count324
+\c@internallinenumber=\count325
+\c@internallinenumbers=\count326
+\quotelinenumbersep=\dimen270
+\bframerule=\dimen271
+\bframesep=\dimen272
+\bframebox=\box89
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count327
+\c@FV@TrueTabCounter=\count328
+\FV@TabBox@Group=\box90
+\FV@TmpLength=\skip87
+\c@FV@HighlightLinesStart=\count329
+\c@FV@HighlightLinesStop=\count330
+\FV@LoopCount=\count331
+\FV@NCharsBox=\box91
+\FV@BreakIndent=\dimen273
+\FV@BreakIndentNChars=\count332
+\FV@BreakSymbolSepLeft=\dimen274
+\FV@BreakSymbolSepLeftNChars=\count333
+\FV@BreakSymbolSepRight=\dimen275
+\FV@BreakSymbolSepRightNChars=\count334
+\FV@BreakSymbolIndentLeft=\dimen276
+\FV@BreakSymbolIndentLeftNChars=\count335
+\FV@BreakSymbolIndentRight=\dimen277
+\FV@BreakSymbolIndentRightNChars=\count336
+\c@FancyVerbLineBreakLast=\count337
+\FV@LineBox=\box92
+\FV@LineIndentBox=\box93
+\FV@LineWidth=\dimen278
+)
+(/usr/share/texmf/tex/generic/xstring/xstring.sty
+(/usr/share/texmf/tex/generic/xstring/xstring.tex
+\integerpart=\count338
+\decimalpart=\count339
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(/usr/share/texmf/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip88
+\fb@frw=\dimen279
+\fb@frh=\dimen280
+\FrameRule=\dimen281
+\FrameSep=\dimen282
+)
+\minted@appexistsfile=\read5
+\minted@bgbox=\box94
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count340
+\c@minted@pygmentizecounter=\count341
+\@float@every@listing=\toks45
+\c@listing=\count342
+)
+runsystem(mkdir -p _minted-Python_for_a_non_technical_audience)...executed.
+
+
+(/usr/share/texmf/tex/latex/underscore/underscore.sty
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/usr/share/texmf/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen283
+\Hy@linkcounter=\count343
+\Hy@pagecounter=\count344
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count345
+
+(/usr/share/texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count346
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen284
+
+(/usr/share/texmf/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count347
+\Field@Width=\dimen285
+\Fld@charsize=\dimen286
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/usr/share/texmf/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count348
+\c@Item=\count349
+\c@Hfootnote=\count350
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/usr/share/texmf/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count351
+\c@bookmark@seq@number=\count352
+
+(/usr/share/texmf/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip89
+)
+(/usr/share/texmf/tex/latex/attachfile/attachfile.sty
+Package: attachfile 2016/09/18 v1.9 PDF 1.3+ file attachment
+
+(/usr/share/texmf/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\c@atfi@tmp=\count353
+\atfi@appearancewidth=\skip90
+\atfi@appearanceheight=\skip91
+\atfi@appearancedepth=\skip92
+\atfi@appearancebox=\box95
+)
+(/usr/share/texmf/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(/usr/share/texmf/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texmf/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
+)
+\XKV@depth=\count354
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/home/uliw/Documents/latex/uli/uli-german-paragraphs.sty)
+(/usr/share/texmf/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf/tex/latex/microtype/microtype.sty
+Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
+\MT@toks=\toks48
+\MT@tempbox=\box96
+\MT@count=\count355
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1195.
+\MT@outer@kern=\dimen287
+LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
+\MT@listname@count=\count356
+
+(/usr/share/texmf/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip93
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
+))
+
+! LaTeX Error: Option clash for package xcolor.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \makeindex
+               
+? q
+OK, entering \batchmode...
+\@indexfile=\write6
+\openout6 = `Python_for_a_non_technical_audience.idx'.
+
+Writing index file Python_for_a_non_technical_audience.idx
+ (/home/uliw/Documents/latex/uli/newuli.sty
+Benutzeranpassungen Ver. 0.3 / 2017 / Uli Wortmann
+ ulips macro requires upgreek and epsfig package 
+ (/usr/share/texmf/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/share/texmf/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+))
+runsystem(which pygmentize && touch Python_for_a_non_technical_audience.aex)...
+executed.
+
+runsystem(rm Python_for_a_non_technical_audience.aex)...executed.
+
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+ (./Python_for_a_non_technical_audience.aux)
+\openout1 = `Python_for_a_non_technical_audience.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+Package scrbase Info: activating english \contentsname on input line 71.
+Package scrbase Info: activating english \listfigurename on input line 71.
+Package scrbase Info: activating english \listtablename on input line 71.
+ (/usr/share/texmf/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count357
+\scratchdimen=\dimen288
+\scratchbox=\box97
+\nofMPsegments=\count358
+\nofMParguments=\count359
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count360
+\MPscratchDim=\dimen289
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
+\everyMPtoPDFconversion=\toks50
+)
+(/usr/share/texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) (|'inkscape' -V )
+
+Package chemgreek Info: Activating mapping `upgreek' on line 71.
+
+Package hyperref Info: Link coloring OFF on input line 71.
+ (/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/share/texmf/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count363
+)
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
+ (./Python_for_a_non_technical_audience.out) (./Python_for_a_non_technical_audi
+ence.out)
+\@outlinefile=\write7
+\openout7 = `Python_for_a_non_technical_audience.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 71.
+ (/usr/share/texmf/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+ (/usr/share/texmf/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count364
+))
+LaTeX Info: Redefining \microtypecontext on input line 71.
+Package microtype Info: Applying patch `item' on input line 71.
+Package microtype Info: Applying patch `toc' on input line 71.
+Package microtype Info: Applying patch `eqnum' on input line 71.
+Package microtype Info: Applying patch `footnote' on input line 71.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 71.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (/usr/share/texmf/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+8.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<title_fig.jpg, id=7, 2952.02875pt x 1205.50375pt>
+File: title_fig.jpg Graphic file (type jpg)
+<use title_fig.jpg>
+Package pdftex.def Info: title_fig.jpg  used on input line 83.
+(pdftex.def)             Requested size: 418.25555pt x 170.79277pt.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./title_fig.jpg>] [2]
+! Undefined control sequence.
+l.89 \rowcolors
+               {1}{gray15}{white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ [3] [4]
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+14.
+ (/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+No file Python_for_a_non_technical_audience.toc.
+\tf@toc=\write8
+\openout8 = `Python_for_a_non_technical_audience.toc'.
+
+ [5] [6
+
+]
+chapter 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+ [7]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+72.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+72.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+72.
+ (/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+172.
+ (/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+172.
+ (/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 172.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 172.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 172.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 17
+2.
+ (/usr/share/texmf/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 172
+.
+ (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texmf/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 172
+.
+ (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texmf/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) (/usr/share/texmf/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+Overfull \hbox (12.74971pt too wide) in paragraph at lines 210--211
+[]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / user
+-[]redirect / git-[]pull ? repo = https : / /
+ []
+
+ [8] [9] [10
+
+]
+chapter 2.
+
+LaTeX Warning: Reference `fig:one' on page 11 undefined on input line 264.
+
+<file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png, id=71, 623.
+6901pt x 622.2447pt>
+File: file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png Graphic
+ file (type png)
+<use file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png>
+Package pdftex.def Info: file_system/Pictures/100002010000035F0000035D143C03BB8
+B0CB57B.png  used on input line 270.
+(pdftex.def)             Requested size: 292.7776pt x 292.09425pt.
+File: file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png Graphic
+ file (type png)
+<use file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png>
+Package pdftex.def Info: file_system/Pictures/100002010000035F0000035D143C03BB8
+B0CB57B.png  used on input line 287.
+(pdftex.def)             Requested size: 292.7776pt x 292.09425pt.
+ [11] [12 <./file_system/Pictures/100002010000035F0000035D143C03BB8B0CB57B.png>
+] [13]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 366--367
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 366--367
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [14]
+chapter 3.
+
+Overfull \hbox (51.77199pt too wide) in paragraph at lines 379--380
+[]\T1/lmtt/m/n/10.95 ./PNTA-Notebooks/Interacting_-with_-Jupyter/Interacting_-w
+ith_-jupyter-assignment 
+ []
+
+
+Overfull \hbox (2.11455pt too wide) in paragraph at lines 413--414
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https %
+ []
+
+
+Overfull \hbox (2.11455pt too wide) in paragraph at lines 413--414
+\T1/lmtt/m/n/10.95 3A % 2F % 2Fgithub . com % 2Fuliw % 2FPNTA-[]Notebooks & url
+path = tree % 2FPNTA-[]Notebooks %
+ []
+
+
+LaTeX Warning: Reference `blink' on page 15 undefined on input line 422.
+
+<Interacting_with_Jupyter/Tianshi/TL-fig-001.png, id=113, 951.555pt x 58.71938p
+t>
+File: Interacting_with_Jupyter/Tianshi/TL-fig-001.png Graphic file (type png)
+<use Interacting_with_Jupyter/Tianshi/TL-fig-001.png>
+Package pdftex.def Info: Interacting_with_Jupyter/Tianshi/TL-fig-001.png  used 
+on input line 426.
+(pdftex.def)             Requested size: 292.7776pt x 18.06662pt.
+ [15
+
+]
+
+LaTeX Warning: Reference `utorid' on page 16 undefined on input line 430.
+
+<Interacting_with_Jupyter/Tianshi/TL-fig-002.png, id=126, 950.04938pt x 554.822
+81pt>
+File: Interacting_with_Jupyter/Tianshi/TL-fig-002.png Graphic file (type png)
+<use Interacting_with_Jupyter/Tianshi/TL-fig-002.png>
+Package pdftex.def Info: Interacting_with_Jupyter/Tianshi/TL-fig-002.png  used 
+on input line 433.
+(pdftex.def)             Requested size: 292.7776pt x 170.97739pt.
+
+LaTeX Warning: Reference `fig-one' on page 16 undefined on input line 438.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_125640.png, id=127, 721.9
+4719pt x 799.48688pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_125640.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_125640.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+25640.png  used on input line 441.
+(pdftex.def)             Requested size: 284.52756pt x 315.0802pt.
+ [16 <./Interacting_with_Jupyter/Tianshi/TL-fig-001.png> <./Interacting_with_Ju
+pyter/Tianshi/TL-fig-002.png>] [17 <./Interacting_with_Jupyter/figures/Screensh
+ot_20200527_125640.png>]
+
+LaTeX Warning: Reference `nfolder' on page 18 undefined on input line 485.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_124326.png, id=143, 779.9
+1376pt x 895.84688pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_124326.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_124326.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+24326.png  used on input line 489.
+(pdftex.def)             Requested size: 292.7776pt x 336.29716pt.
+
+LaTeX Warning: Reference `homed' on page 18 undefined on input line 498.
+
+ [18 <./Interacting_with_Jupyter/figures/Screenshot_20200527_124326.png>]
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_125640.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_125640.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+25640.png  used on input line 504.
+(pdftex.def)             Requested size: 292.7776pt x 324.21738pt.
+
+Overfull \hbox (118.08118pt too wide) in paragraph at lines 521--522
+[]\T1/lmr/m/n/10.95 (-20) Enter the fol-low-ing com-mand at the prompt: \T1/lmt
+t/m/n/10.95 git clone https://github.com/uliw/PNTA-Notebooks 
+ []
+
+ [19]
+
+LaTeX Warning: Reference `nbexample' on page 20 undefined on input line 559.
+
+ [20]
+<Interacting_with_Jupyter/Tianshi/TL-fig-003.png, id=177, 877.77937pt x 651.182
+82pt>
+File: Interacting_with_Jupyter/Tianshi/TL-fig-003.png Graphic file (type png)
+<use Interacting_with_Jupyter/Tianshi/TL-fig-003.png>
+Package pdftex.def Info: Interacting_with_Jupyter/Tianshi/TL-fig-003.png  used 
+on input line 571.
+(pdftex.def)             Requested size: 292.7776pt x 217.1962pt.
+
+Overfull \hbox (26.07498pt too wide) in paragraph at lines 575--581
+\T1/lmtt/m/n/10.95 assignments\T1/lmr/m/n/10.95 (-20) , \T1/lmtt/m/n/10.95 Inte
+racting_-with_-Jupyter\T1/lmr/m/n/10.95 (-20) , and se-lect \T1/lmtt/m/n/10.95 
+Interacting_-with_-Jupyter-2.ipynb
+ []
+
+
+LaTeX Warning: Reference `nbselected' on page 21 undefined on input line 584.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_133749.png, id=178, 840.1
+3875pt x 527.72156pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_133749.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_133749.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+33749.png  used on input line 588.
+(pdftex.def)             Requested size: 292.7776pt x 183.90007pt.
+<Interacting_with_Jupyter/figures/Screenshot_20200527_133820.png, id=179, 840.1
+3875pt x 620.3175pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_133820.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_133820.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+33820.png  used on input line 599.
+(pdftex.def)             Requested size: 292.7776pt x 216.16785pt.
+
+LaTeX Warning: Reference `noconn' on page 21 undefined on input line 615.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_134756.png, id=180, 797.2
+2844pt x 241.65282pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_134756.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_134756.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+34756.png  used on input line 619.
+(pdftex.def)             Requested size: 292.7776pt x 88.74641pt.
+ [21 <./Interacting_with_Jupyter/Tianshi/TL-fig-003.png>] [22 <./Interacting_wi
+th_Jupyter/figures/Screenshot_20200527_133749.png (PNG copy)> <./Interacting_wi
+th_Jupyter/figures/Screenshot_20200527_133820.png (PNG copy)>]
+
+LaTeX Warning: Reference `nbfirst' on page 23 undefined on input line 635.
+
+
+LaTeX Warning: Reference `celltype' on page 23 undefined on input line 637.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_145057.png, id=193, 820.5
+6563pt x 247.67531pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_145057.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_145057.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+45057.png  used on input line 640.
+(pdftex.def)             Requested size: 292.7776pt x 88.3694pt.
+<Interacting_with_Jupyter/figures/Screenshot_20200527_150324.png, id=194, 987.6
+9pt x 413.29407pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_150324.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_150324.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+50324.png  used on input line 647.
+(pdftex.def)             Requested size: 292.7776pt x 122.50717pt.
+ [23 <./Interacting_with_Jupyter/figures/Screenshot_20200527_134756.png (PNG co
+py)> <./Interacting_with_Jupyter/figures/Screenshot_20200527_145057.png (PNG co
+py)>]
+
+LaTeX Warning: Reference `mdsyntax' on page 24 undefined on input line 675.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_153811.png, id=203, 848.4
+197pt x 468.24937pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_153811.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_153811.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+53811.png  used on input line 682.
+(pdftex.def)             Requested size: 292.7776pt x 161.58192pt.
+
+LaTeX Warning: Reference `codesnap' on page 24 undefined on input line 703.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_161029.png, id=205, 878.5
+3218pt x 80.55093pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_161029.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_161029.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+61029.png  used on input line 706.
+(pdftex.def)             Requested size: 292.7776pt x 26.84491pt.
+ [24 <./Interacting_with_Jupyter/figures/Screenshot_20200527_150324.png (PNG co
+py)>]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 711.
+
+LaTeX Warning: Reference `fdialog' on page 25 undefined on input line 718.
+
+<Interacting_with_Jupyter/figures/Screenshot_20200527_161555.png, id=215, 959.0
+8313pt x 733.99219pt>
+File: Interacting_with_Jupyter/figures/Screenshot_20200527_161555.png Graphic f
+ile (type png)
+<use Interacting_with_Jupyter/figures/Screenshot_20200527_161555.png>
+Package pdftex.def Info: Interacting_with_Jupyter/figures/Screenshot_20200527_1
+61555.png  used on input line 721.
+(pdftex.def)             Requested size: 292.7776pt x 224.06328pt.
+ [25 <./Interacting_with_Jupyter/figures/Screenshot_20200527_153811.png (PNG co
+py)> <./Interacting_with_Jupyter/figures/Screenshot_20200527_161029.png (PNG co
+py)>] [26 <./Interacting_with_Jupyter/figures/Screenshot_20200527_161555.png (P
+NG copy)>]
+chapter 4.
+
+LaTeX Warning: Reference `name' on page 27 undefined on input line 779.
+
+<./figures/Screenshot_20200528_101944.png, id=241, 735.49782pt x 297.36093pt>
+File: ./figures/Screenshot_20200528_101944.png Graphic file (type png)
+<use ./figures/Screenshot_20200528_101944.png>
+Package pdftex.def Info: ./figures/Screenshot_20200528_101944.png  used on inpu
+t line 782.
+(pdftex.def)             Requested size: 292.7776pt x 118.37054pt.
+ [27
+
+]
+<./figures/Screenshot_20200921_111320.png, id=253, 742.27313pt x 362.85562pt>
+File: ./figures/Screenshot_20200921_111320.png Graphic file (type png)
+<use ./figures/Screenshot_20200921_111320.png>
+Package pdftex.def Info: ./figures/Screenshot_20200921_111320.png  used on inpu
+t line 825.
+(pdftex.def)             Requested size: 292.7776pt x 143.1243pt.
+ [28 <./figures/Screenshot_20200528_101944.png (PNG copy)> <./figures/Screensho
+t_20200921_111320.png (PNG copy)>]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 855--856
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 855--856
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [29] [30
+
+]
+chapter 5.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/default.pygstyle)
+(./_minted-Python_for_a_non_technical_audience/7EB7EEF3CBEC26381A0B02734ED26D73
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C5A4F3535135E4646C793C4A887B62C8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [31])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8A0637EC9E70FDB33EAD13A5B985A5DC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/104EF46DB5E120A65F4DB1810A657DB4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [32] [33] [34] [35] [36]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 1225--1226
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 1225--1226
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+
+Overfull \hbox (34.52579pt too wide) in paragraph at lines 1235--1236
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/Data_-types/Working_-with_-lists/working_-w
+ith_-lists_-assignment 
+ []
+
+ [37]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/EADE05AE600B8E8120AE2FD4B5A81F8E
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/474C0031E2E397762946C5492E007DBE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9C128F61CDFA36BB590537EABEEFEDFB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 2735) has occurred while \output is active []
+
+ [38]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DA2FF59378EC301A1E7A880EE41C5866
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F6BEA31A1A9E01B89458EEF45A8E07EA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/FFA6CDE66FCC5FB26A3334F796B7C686
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/16006C632865C2845EEA8219F67CAC08
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [39])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7224D455624ADBD82F38504B711A1288
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/491FB1DA551E26DE09475BA0E6B2C748
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F1E1B2FCE90915E45CA73D74F6B1F099
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [40]
+chapter 6.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/071DDD734EC81656A58DF84EBC5B0AAA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3DD6762D25C481A0D59C1965B8D8EED9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3DD6762D25C481A0D59C1965B8D8EED9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3DD6762D25C481A0D59C1965B8D8EED9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3DD6762D25C481A0D59C1965B8D8EED9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [41
+
+])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3DD6762D25C481A0D59C1965B8D8EED9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E3DF228C76DB8BC4938D193D2D2F8BEC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3AE2A542A55BBF82487FF5E77A5CC8C3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/ECA0F982372590E3A0C6A48C53F543CA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 4072) has occurred while \output is active []
+
+ [42]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 1552--1553
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 1552--1553
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/23983744026E652C2FEB6D69BE59EE5F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9194FF3982EB261A68F02A651D1B4726
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/38A22381FD32DDC5F6A6A333D45EDB9A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D206DE0E803D87E5C0E7DF7FB3D440EB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [43])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0569225F63806634A0F7BFF331A1D7AE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3C5031C73DC35299D8204E8E7BE4104F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A4AB6D41D4D30919013538C0A03B2241
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+1654.
+ (/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+ [44] [45]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D741716FEFB8638B65A2F6FE012306C0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D65EDA910A3231D40D7D34AE10A75818
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/FDC33915585BC48D1B35ACB472A28AB6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/80388E557DCB11BAB4A881D39362F138
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [46]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/514A3A3297770A8641AABA90F88EB496
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Overfull \hbox (37.619pt too wide) in paragraph at lines 1792--1792
+[]    \T1/lmtt/m/n/10.95 Return a new list containing all items from the iterab
+le in ascending order.[] 
+ []
+
+
+Overfull \hbox (30.14566pt too wide) in paragraph at lines 1794--1794
+[]    \T1/lmtt/m/n/10.95 A custom key function can be supplied to customize the
+ sort order, and the[] 
+ []
+
+
+Overfull \hbox (14.49164pt too wide) in paragraph at lines 1815--1816
+[]\T1/lmr/m/n/10.95 (-20) You can query what a method does by call-ing the help
+ func-tion (\T1/lmtt/m/n/10.95 help(object.method_-
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3B79B08DA5A9B652C966461071DA92F4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [47])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D1FCC9331C336692597345C76F579463
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/76E5BF80FDB1CFCE8BC39680A94F56CE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6D2337ADF8F40A134D57A57864422D64
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/47115869794A22A4E11F92FB1900B094
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/163C364EEB5D88B00E49A90D5C44FBEA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F99C9BBD13C5CD6ED1A5A8B2F8D62970
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [49])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/EA108F2A2485D8D91E8D1F9481A51D95
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/371717C06E4EB7CE92E8DE6EA8B53351
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/2188071A8FDDD829E474B1D8BC567885
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A2F9D5236AA2E2C4AA5328C0885E708D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8CEBCC47FC8C757A2BAFD6901955E853
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4A237599944021CB4D182BDB545185CB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/13C88F54624A2B734D50D90F2B75E130
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/2188071A8FDDD829E474B1D8BC567885
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D65EDA910A3231D40D7D34AE10A75818
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3B3846301D48BE87C1767E7C408DD686
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/53FDD22B90A5A6C9BB708CD844DD6A20
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 2443) has occurred while \output is active []
+
+ [51] [52]
+chapter 7.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/071DDD734EC81656A58DF84EBC5B0AAA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/071DDD734EC81656A58DF84EBC5B0AAA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DD2F97354CA5EBD23506145EC97FE571
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [53
+
+])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E77ADDA1AAAD93FA615D1B685788309B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/37FC68D0D00054E92E3B922AF1E8CCE1
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/81C958160E42B3438169D18307B709DD
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+) [54]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 2189--2190
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 2189--2190
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CF09D6BDC3C73936CEBDEA763179F35E
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [55]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/084B85BBF2A4B189F25666C85FF928C8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CFE2D33157B2C419AE9BCCEAFC65E9AA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6C247E4AF67C03A5DCEF864DF63BFC78
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/18CBFB4792833BC6A78DE330C2B12561
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6CD05F860639C8FD7F3755B44EA12CB5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B87D89E5A2A7B745264158A1BA6F3486
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [57]
+Overfull \hbox (15.25076pt too wide) in paragraph at lines 2389--2393
+[] []\T1/lmss/bx/n/10.95 (-20) Submission In-struc-tions[][] \T1/lmr/m/n/10.95 
+(-20) Cre-ate a new (or copy and ex-ist-ing) note-book in your \T1/lmtt/m/n/10.
+95 submissions
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 2450--2451
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 2450--2451
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [59]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5D8EF59FAB1D4DF48B3859019C46ECEE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/BCA2FF5AF94FD1BA70FE92626517F464
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/84BD48149A6C5B3594AB91C9C6E2584D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1FAE5E185744480D9B47A569EA886B87
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [60]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A2B834B3171B7CD811D96A5B55E3B638
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F5524E87BBF89ABF16144527A42B3B60
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F11412F83E11E62EC2EA1722BAD96B1F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/09FAC4AE786BFB1109FBD6929CAE7493
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C80B7C55D01C0BF1B03F5E1047619384
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [61])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1272D958749EF7B690F1997326C23C84
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E0B9BDB426B479AF9D4C2A14FA10066B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/07726AF79885D1695D5A502BFBDC03B9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C899DEEAFC7843FFEFF914BA0A7B8FF4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C90A7AB1BCD6AD7778C342BCE95074F1
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5E72C46EEBCA5B81C7A309F551C0BDC9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 5.
+)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7C24A12FF5A8FE8B201F578C31787DC5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [64]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D98572B31D0B201CA493578663015064
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8F0BB9E65E79A3B448392D846B8084F8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/95BDF892E7F8D3A3A8FD3836759AB738
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [65])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/95EB268641EDBF969999A86515D01979
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [66]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B128872B933762D802E80B1F5C8070C6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/164EF953B2503D3CED43844DC17FD4FC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A385FBEF996FB46C6B33ED46C1416DD1
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/2B75B600A9EA3266036EE7D4B3119C21
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 5939) has occurred while \output is active []
+
+ [67]) [68]
+chapter 8.
+ [69
+
+]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/55B912E0FFD004D2F5E839F586AA06C8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DE9966CA62A282A7BA698DB06AAACCA6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9AE020634992CB647B3FE18B496E47FB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [70]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 3058--3059
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 3058--3059
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+
+Overfull \hbox (5.78212pt too wide) in paragraph at lines 3065--3066
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/comparisons_-and_-logic_-operations/compari
+sons_-and_-logic 
+ []
+
+
+Overfull \hbox (14.40521pt too wide) in paragraph at lines 3066--3067
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/comparisons_-and_-logic_-operations/compari
+sons_-and_-logic_-
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F34148E6C00162E7F851364CBB86C29D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DF72F36EEE57AA158106E1B29D2DAA48
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [71])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/733DF12F6E7833BB2932DF4A44A01485
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/048EE936947B80686C9535AE0A35BC1E
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/41FE5D673392DA984A3249F29B4792B7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7D2FBFF0808E740396F4CEA05E9A760D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/72892D7124B1B452C9988F87DD6E810C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 2582) has occurred while \output is active []
+
+ [72])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5BB5E387670BDC60378431B70CB6A539
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/228F23DF241B4AB90DB85AAF92486EB8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/74CEB210AA668CB95E7CD9A5C7BFD4B0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [73])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/005E7A967B385C76D99BCBA191B974AF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B4E2A18E1F182DC262B6F85F24C5849D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5F04187EC32D38AC062331837FD05CDF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D513CA9766C2B56BA307288E83039803
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74])
+Underfull \hbox (badness 10000) in paragraph at lines 3289--3292
+
+ []
+
+ [75]
+Overfull \hbox (33.67664pt too wide) in paragraph at lines 3342--3344
+[]\T1/lmr/m/n/10.95 (-20) How does your note-book in-di-cate that \T1/lmtt/m/n/
+10.95 True \T1/lmr/m/n/10.95 (-20) has a spe-cial mean-ing? [][][][]
+ []
+
+
+Underfull \vbox (badness 5954) has occurred while \output is active []
+
+ [76]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/13F67E93D972FD2030A45B2CD514E2E3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/13F67E93D972FD2030A45B2CD514E2E3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [77])
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 3432--3433
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 3432--3433
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [78]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B484F6C655125385B4548320FAF7BED3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [79])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7B609AE87AA7759EBC585E54F1D3BA8B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/EC56DDA903F911BA510D9489E64A7F10
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/BB98928067BCF2047584B23B2268DCD5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1260ED33E4C4AF0CDDE83F27BB766724
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9871F61B23F362EE0AD803A3CD22D969
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/ECFE16ADC9C4E846F0911ABF9F5D18C9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/AEE07D5C734528663EAB618ACEAD62A2
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [81])
+<block_operations/Screenshot_20200708_102345.png, id=728, 452.4403pt x 45.16875
+pt>
+File: block_operations/Screenshot_20200708_102345.png Graphic file (type png)
+<use block_operations/Screenshot_20200708_102345.png>
+Package pdftex.def Info: block_operations/Screenshot_20200708_102345.png  used 
+on input line 3680.
+(pdftex.def)             Requested size: 376.42744pt x 37.57964pt.
+ [82 <./block_operations/Screenshot_20200708_102345.png>]
+chapter 9.
+ [83
+
+]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/77FD5DB3CD2E32E1EA137B85ED58FAEE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+ [84]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 3815--3816
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 3815--3816
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C02C90BD6187C5A64B2A70AEEF04DFFA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B21FE40ED8CD424ED1A6441CFFBD585B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/53A822BC383BFCBAFCEBB275D8B6F0A2
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [85]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/649974E0B6516DDFC7913A82C9F549C1
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/2E80E98862FFEA9CD5EFA1F54D9BE75A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E80E2B22793454E53E833FC3CE14022F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/68D1EB479E0429E4E23377E5E797015D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [86]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6EC6EA420F032EFF2B04EF2ED917BE06
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/59F228A08C8025A0B0BA02ED16D0466C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/91275876EDC02734163BB884DA927C69
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [87])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0C184A198B41AC895CC95E1B8543951E
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+<block_operations/Screenshot_20200709_132253.png, id=780, 527.72156pt x 177.663
+76pt>
+File: block_operations/Screenshot_20200709_132253.png Graphic file (type png)
+<use block_operations/Screenshot_20200709_132253.png>
+Package pdftex.def Info: block_operations/Screenshot_20200709_132253.png  used 
+on input line 4009.
+(pdftex.def)             Requested size: 376.42744pt x 126.72769pt.
+<block_operations/Screenshot_20200709_132222.png, id=781, 266.49562pt x 252.945
+pt>
+File: block_operations/Screenshot_20200709_132222.png Graphic file (type png)
+<use block_operations/Screenshot_20200709_132222.png>
+Package pdftex.def Info: block_operations/Screenshot_20200709_132222.png  used 
+on input line 4017.
+(pdftex.def)             Requested size: 142.26378pt x 135.03284pt.
+ [88] [89 <./block_operations/Screenshot_20200709_132253.png (PNG copy)> <./blo
+ck_operations/Screenshot_20200709_132222.png (PNG copy)>]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/FD26F13E67D385D80432ACA7CC2A7510
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C051F1CE1681BEFB4B112E29A25A4365
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/66C6120592FD0FF33A3864BD5B4E7646
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DA0F1B25E38CC43ADE44BBC1AEA59212
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [90]) [91] [92
+
+]
+chapter 10.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1D9EE054EFCC35FB0275609B86ACCD10
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/754CAB645BDEB51BDA5EBA41DCF41676
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [93]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/754CAB645BDEB51BDA5EBA41DCF41676
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B0CE68A226D7C7E78E03E2F15852BDC0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [94])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/754CAB645BDEB51BDA5EBA41DCF41676
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/754CAB645BDEB51BDA5EBA41DCF41676
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7EEF43A1A7AA971A2E6877028E51814
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [95]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/50ABBFFAF068F0496373B971999CC893
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/821A9073D776A6F317906DA8D9BFFA8B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/54E7789B11E7C503A6AF76120A96B1EE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [96])
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 4419--4420
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 4419--4420
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [97]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D90D96080D30863CAEE38C0A3B089CEB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6C4DD19BAB93D180DF21843DE78175FD
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/92A62054AA3AFD257CDADCB596503427
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B311AA387466D38EFB7A500B78B52419
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0348329A9C9641DAB604DA737457CC63
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [98])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F1D550ADAA95EFC166662FDE2218CB02
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/30B3B2D795624F4D994F740889D9A335
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [99])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/879F119C3F6ABE0065BAB6BDAE9D0238
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6C26B69CC2AC57526ABB1BEBC0422E92
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/626AD2CF31B2DB044E6CE6BA095FC153
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [100])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/08235533DCEF024DF6FAC5FD0CB6DFC0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B4BB82530F25F693966FDD4D4D7302FE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [101])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CD597F79B179C659D16A53622670CDAC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E7D0A71EF4276B7B0C9764D8381D8E53
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CBDE0CA3821F232847BED4BD1928D728
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DA98DED1C1611D71513A12495F4DEB25
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A631FABADFF9627B918629962A826FF4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [102])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C289BB51383649C9717D6CE14E7B91D8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E439C207453EB921465CB8B32B8BCF06
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7095C750CAA329D885460BCC5EDC63F3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7E354C61FCC1FD3F0EB575480919D16B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [103])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8CA43E07D3342917CDA458BB6C254A6A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [104])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E57715B3B4CAE08F073EC2926CBFAAD5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [105]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1C4B432DB6CDAD3D0C5DE3ED2C7B42F5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F00832A3E6D5FE352A5309B3EE4127DD
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D57F5BA9CBF642DAA3480395C22F9F52
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DDEBF78AC7F6CF298DD0B0181E47BA8F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [106])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/11D4B15E9C17407037AF4A54D8D0514D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/95B5BC3899075E9DCF8050276B8FE1BB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/75C90F2B2FF72B4729360F95B0C78F24
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [107])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0B7E9BD83E91ADFB84CCB48206F23022
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B3D88001618B9B7200FF5C01EA5D1A9F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/884A8AFAD425EFF1DD045925C5845DDE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [108])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F95C2AA82A9943D189FBE03F212D9EAF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 4084) has occurred while \output is active []
+
+ [109] [110]
+
+LaTeX Warning: Reference `fig:IRMS' on page 111 undefined on input line 5134.
+
+<./figures/Mass-Spectrometer-Schematic.png, id=959, 730.73pt x 770.88pt>
+File: ./figures/Mass-Spectrometer-Schematic.png Graphic file (type png)
+<use ./figures/Mass-Spectrometer-Schematic.png>
+Package pdftex.def Info: ./figures/Mass-Spectrometer-Schematic.png  used on inp
+ut line 5141.
+(pdftex.def)             Requested size: 376.42744pt x 397.10762pt.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A8FFAF2A097F54B2A0F901E5346E8ADB
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A68175F3CB09B0F78B8826F7E52B3585
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111] [112 <./figures/Mass-Spectrometer-Schematic.png>]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/07996782D789BBFA2D2C66C83769ED30
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0C6FDB861CBE7E9586563A382D22ED8A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/53F809F00169B06AC7549DC7CD517201
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [113]
+Underfull \vbox (badness 3826) has occurred while \output is active []
+
+ [114]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 5318--5319
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 5318--5319
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [115] [116
+
+]
+chapter 11.
+ [117]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/230D4B42DFE087BC35BDEE7F8A26BEFE
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [118] [119] [120
+
+]
+chapter 12.
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D8F0D8E5BF3AEBC0026E44DE3DF873B8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/115C5882E61B961B8C4FB77534036DD7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A4E6280778A166205A1D36028F678830
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [121])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [122]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [123]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 5656--5657
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 5656--5657
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [124]
+chapter 13.
+ [125
+
+]
+Overfull \hbox (12.89946pt too wide) in paragraph at lines 5740--5740
+[]     \T1/lmtt/m/n/10.95 - How to check if a string is binary number -> see pr
+evious assignment[] 
+ []
+
+
+Overfull \hbox (1.11455pt too wide) in paragraph at lines 5744--5744
+[]     \T1/lmtt/m/n/10.95 - How to convert a binary number into decimal -> read
+ up in textbook[] 
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5711A3268C169FFB7E715FFA129C611C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [126])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/5D1D487A0C0ACE5386D79AD5B7E4353A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/74F42B2B5F6E27AB541B357B442FABDC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0B67F91D9B1EEA97C7FC034970F22F07
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A191151FD7A993A119DA06FA6B6A6C22
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [128])
+Underfull \vbox (badness 7133) has occurred while \output is active []
+
+ [129]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 5931--5932
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 5931--5932
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B0108489806F2A5E752286DDDAA53FF2
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [130]) [131]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/FFAA4D9FA9DCC88643CA494C12EFE8FA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [132]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/7922ED7229D8B6A0E20E10A9DA9FAFA9
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [133]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 6191--6192
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 6191--6192
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [134] [135] [136]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0EAEF7C8FB5B20F028E335AC5BA574A4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [137]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B5DF6EBF640A64C3B53722001975A8CF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C81B7AA075AF27015D91322DEB08AACC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [138])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/BA1BE77F8898D39B4F91BC9A281E0859
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B92EBC07264C511BBAC4BF55C6947B06
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A3128980737DE3934228B38B240963FF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [140]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8FE36D86E5689DE388D5CF036A76FDE0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [141]) [142]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 6641--6642
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 6641--6642
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [143] [144
+
+]
+chapter 14.
+ [145] [146
+
+]
+chapter 15.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/089B2096F63D06F855CD30885067AEB2
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/E6607822892F91CB9A3C8152A9A540DA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/92B5F5114B7B991C9E175554114DF44B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4945386A2816AE6BE4DEEA2964B774AD
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C1C3CA08FC4A1997DC8CE65C666D98F4
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148])
+Overfull \hbox (14.40521pt too wide) in paragraph at lines 6779--6780
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Pandas/accessing_-
+data/accessing_-
+ []
+
+
+Overfull \hbox (14.40521pt too wide) in paragraph at lines 6780--6781
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Pandas/accessing_-
+data/accessing_-
+ []
+
+
+Overfull \hbox (71.89255pt too wide) in paragraph at lines 6781--6782
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Pandas/working_-wi
+th_-pandas_-series/working_-
+ []
+
+
+Overfull \hbox (71.89255pt too wide) in paragraph at lines 6782--6783
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Pandas/working_-wi
+th_-pandas_-series/working_-
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CD1E79607444FA5C7900B46D28C1F898
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4EAC0594406D013E3E3977A235AE5759
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4CC10E2C4C0DAB5024A5D2A102CE2B90
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3EFC73F9C8499D84E5D75B6A80BF6496
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/41826635C8E47FA4E3510EB984098080
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/282FD0E603ED03D8A60DAD3D657D085C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+ [150]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/213F357384FF9E09DEBE8561AF559CC8
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9CBB270DE8901B0579B3608E775D1BC6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4C20AC67FE412BE434BD3A9BD72B407D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/63C4FDC78907E37E23BA8B9CAF019E26
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]) [152]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A6785F17EADDDCD1125DB52C7D4C6DA7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [153])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9B4A0523A4F5ED3EADC2037025FFCBA6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Overfull \hbox (15.25076pt too wide) in paragraph at lines 7096--7100
+[] []\T1/lmss/bx/n/10.95 (-20) Submission In-struc-tions[][] \T1/lmr/m/n/10.95 
+(-20) Cre-ate a new (or copy and ex-ist-ing) note-book in your \T1/lmtt/m/n/10.
+95 submissions
+ []
+
+ [154]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 7157--7158
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 7157--7158
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [155] [156]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A6785F17EADDDCD1125DB52C7D4C6DA7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/552DACB15F2019C8F3F74C55BEFA242C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9B4A0523A4F5ED3EADC2037025FFCBA6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [157]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 7330--7331
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 7330--7331
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [158]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0E7976477E89FAA2A8D8E9B547BC4830
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [159]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/6ECDBCC90A1304671C63BBC4DC5DE228
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Overfull \hbox (15.25076pt too wide) in paragraph at lines 7486--7490
+[] []\T1/lmss/bx/n/10.95 (-20) Submission In-struc-tions[][] \T1/lmr/m/n/10.95 
+(-20) Cre-ate a new (or copy and ex-ist-ing) note-book in your \T1/lmtt/m/n/10.
+95 submissions
+ []
+
+ [160]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 7547--7548
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 7547--7548
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161]
+Overfull \hbox (63.26945pt too wide) in paragraph at lines 7555--7556
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Matplotlib/plottin
+g_-data_-assignment.ipynb 
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3709E6CB40898A60C18164D2418ABDB5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [162])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C241FC1EFC618998BB969168FF2DD139
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/12B280D80B5B8D8E5DD493E38FAFAD23
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8EBF29148CF4A2E76253B774DC574A13
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/980E542B7DA6CFB18761E7C6AF6360BA
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [164])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D81A0BF9EA0EFDBEFBD677419134C3E0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/AFF7CCB306E76660736E4ABD3CB3C371
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [165])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3EE2A42D1F2AA0BFF4ABD19F5E4A3342
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0A8122787DA6A8ED40149B041F92029A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/DA139FCF16E1A024F38403CB8624152C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/77BE3F4C88F227611BE3E82C83A585E5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/D734EDA59FAE85486DF939FBE940E5D7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [167])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F138C127356C52EB7DAE9AF58659869C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/19A18812C95B7234C73B48E33A5C3186
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [168])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/3271F252549A953492D598E0D4671489
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [169])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/45C633E422C6A38426B064BA9C9F71A6
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A6241A0D17D5B886396485E4D496A663
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [170])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8148E3F3F534BB86AE76057D3AC03B37
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [171])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4139AFF1FF590C720214096FC8D508F5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Overfull \hbox (15.31158pt too wide) in paragraph at lines 8132--8135
+\T1/lmr/m/n/10.95 (-20) See []$\T1/lmtt/m/n/10.95 https : / / matplotlib . org 
+/ 3 . 1 . 1 / gallery / style _ sheets / style _ sheets _ reference .
+ []
+
+ [172]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/1282EAA12A29FF0DCC3004DFEE364B57
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/AC9C73D88D9ED671C8248C2A6FDAAF88
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [173])
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+ [174]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C6962856EADC73251D6B0EA3DB7B6A37
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+Underfull \vbox (badness 2799) has occurred while \output is active []
+
+ [175] [176]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 8367--8368
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 8367--8368
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+
+Overfull \hbox (28.77705pt too wide) in paragraph at lines 8374--8375
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Statsmodels/linear
+_-regression.ipynb 
+ []
+
+
+Overfull \hbox (2.90775pt too wide) in paragraph at lines 8375--8376
+[]\T1/lmtt/m/n/10.95 PNTA-Notebooks/working_-with_-libraries/Statsmodels/linear
+_-regression_-
+ []
+
+
+LaTeX Warning: Reference `fig:storksa' on page 177 undefined on input line 8389
+.
+
+<working_with_libraries/Statsmodels/Ringed_white_stork.png, id=1541, 90.3375pt 
+x 120.45pt>
+File: working_with_libraries/Statsmodels/Ringed_white_stork.png Graphic file (t
+ype png)
+<use working_with_libraries/Statsmodels/Ringed_white_stork.png>
+Package pdftex.def Info: working_with_libraries/Statsmodels/Ringed_white_stork.
+png  used on input line 8394.
+(pdftex.def)             Requested size: 142.26378pt x 189.70421pt.
+
+LaTeX Warning: Reference `fig:storks' on page 177 undefined on input line 8406.
+
+
+<working_with_libraries/Statsmodels/stork_new.png, id=1544, 433.62pt x 289.08pt
+>
+File: working_with_libraries/Statsmodels/stork_new.png Graphic file (type png)
+<use working_with_libraries/Statsmodels/stork_new.png>
+Package pdftex.def Info: working_with_libraries/Statsmodels/stork_new.png  used
+ on input line 8410.
+(pdftex.def)             Requested size: 376.42744pt x 250.96382pt.
+ [177] [178 <./working_with_libraries/Statsmodels/Ringed_white_stork.png> <./wo
+rking_with_libraries/Statsmodels/stork_new.png>]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/31B1F9662CFA617560FE97B5664AF7A0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [179]
+
+LaTeX Warning: Reference `fig:storks' on page 180 undefined on input line 8504.
+
+
+
+LaTeX Warning: Reference `fig:storks' on page 180 undefined on input line 8517.
+
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/87685B6B7F9611D6E3C62455FBF042EF
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [180])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/9BA9BC53E158FAEDFD071780DAD50F1D
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/771A9F030159BBD3CED0E09A8556A36B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [181])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/16C5C0E2042A55227B5D5CBA72333258
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+
+LaTeX Warning: Reference `fig:storks' on page 182 undefined on input line 8649.
+
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/ADFB9DBC2F14335DFB08E30DF5E84E2A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [182])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/8BEB49971E59F73E2E66415B9F0D934B
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [183])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/06DB92F4F5C99943EC3C127F9C798887
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/23009085F21CC58C2939F8A32015701F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [184]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/FFF6CA042FDA68E380295D4D8F1B01E2
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [186])
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 8890--8891
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 8890--8891
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+ [187]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/86472967EE83509B04F74B59790AA964
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [188] [189]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 9050--9051
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 9050--9051
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/90B2C7E90DAA7909DF5A34C6C0792AF3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [190])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/00DBBF18BF7536C8B4CA6684CB298C3C
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/44CC181CAE22F54B3EE571B51BDC67A3
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/97A600234E4555D10123BF2EFEDE8164
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/B07A3C827CA1A3BA72FF88A08C4EF4D0
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/87B05B8E185EE526EFCD8090150F47AC
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [191])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/4857D114DE6D8DDD2EEC980812E3A45A
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/24C9D1DC347D708EDB4B0F35C300A213
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [192]
+
+LaTeX Warning: Reference `storksandbabies' on page 193 undefined on input line 
+9208.
+
+<working_with_libraries/Numpy/storks.png, id=1664, 433.62pt x 289.08pt>
+File: working_with_libraries/Numpy/storks.png Graphic file (type png)
+<use working_with_libraries/Numpy/storks.png>
+Package pdftex.def Info: working_with_libraries/Numpy/storks.png  used on input
+ line 9211.
+(pdftex.def)             Requested size: 376.42744pt x 250.96382pt.
+<working_with_libraries/Numpy/polygon_n.png, id=1665, 433.62pt x 289.08pt>
+File: working_with_libraries/Numpy/polygon_n.png Graphic file (type png)
+<use working_with_libraries/Numpy/polygon_n.png>
+Package pdftex.def Info: working_with_libraries/Numpy/polygon_n.png  used on in
+put line 9241.
+(pdftex.def)             Requested size: 376.42744pt x 250.96382pt.
+ [193 <./working_with_libraries/Numpy/storks.png>]
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/A8FD8C182227118A6546AA719A87B353
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/EA812A58395C67441C7C82EBA895AB48
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/19F14E648A5F0F869E5DCAA11E872F9E
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex
+Underfull \vbox (badness 8075) has occurred while \output is active []
+
+ [194 <./working_with_libraries/Numpy/polygon_n.png>])
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0C9CA712F533DE86C3EC94905C2F6E21
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/769D6017718845BDCDD05DC194849D4F
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/CBA57F999D93D1C517E58A2936C971A5
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/F075DCE51D8EABA3C6EF778966E3E862
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex) [195]
+
+LaTeX Warning: Reference `storksandbabies' on page 196 undefined on input line 
+9350.
+
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/C89EB5D9D2DBB22021E8F0D5A53073E7
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex)
+\openout4 = `Python_for_a_non_technical_audience.pyg'.
+
+
+(./_minted-Python_for_a_non_technical_audience/0C8CE86F2224D23761F8963EB733E512
+DF14D7D694BA9F368BCAC0A38FCF1EA4.pygtex [196])
+Overfull \hbox (15.25076pt too wide) in paragraph at lines 9424--9428
+[] []\T1/lmss/bx/n/10.95 (-20) Submission In-struc-tions[][] \T1/lmr/m/n/10.95 
+(-20) Cre-ate a new (or copy and ex-ist-ing) note-book in your \T1/lmtt/m/n/10.
+95 submissions
+ []
+
+ [197]
+Overfull \hbox (26.90268pt too wide) in paragraph at lines 9485--9486
+[][]$\T1/lmtt/m/n/10.95 https : / / utoronto . syzygy . ca / jupyter / hub / us
+er-[]redirect / git-[]pull ? repo = https :
+ []
+
+
+Overfull \hbox (6.20724pt too wide) in paragraph at lines 9485--9486
+\T1/lmtt/m/n/10.95 / / github . com / uliw / PNTA-[]Notebooks & urlpath = tree 
+/ PNTA-[]Notebooks / &branch =
+ []
+
+No file Python_for_a_non_technical_audience.bbl.
+ (./Python_for_a_non_technical_audience.ind) [198] (./Python_for_a_non_technica
+l_audience.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `Python_for_a_non_technical_audience.out' has
+ not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+runsystem(rm Python_for_a_non_technical_audience.pyg)...executed.
+
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 2260 ({)
+### simple group (level 1) entered at line 2216 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 37933 strings out of 478284
+ 888314 string characters out of 5855939
+ 1276902 words of memory out of 5000000
+ 53612 multiletter control sequences out of 15000+600000
+ 535310 words of font info for 169 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,10n,106p,10657b,1065s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texm
+f/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-math
+ex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fon
+ts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr
+/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmtk10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmtti10.pfb>
+Output written on Python_for_a_non_technical_audience.pdf (198 pages, 4797886 b
+ytes).
+PDF statistics:
+ 2706 PDF objects out of 2984 (max. 8388607)
+ 2409 compressed objects within 25 object streams
+ 837 named destinations out of 1000 (max. 500000)
+ 44578 words of extra memory for PDF output out of 51595 (max. 10000000)
+

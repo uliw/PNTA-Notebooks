@@ -1,0 +1,30 @@
+""" Description:
+    Author:
+    Date:
+"""
+# ----------- third party library imports ------------------
+from __future__ import annotations
+import pandas as pd  # inport pandas as pd
+import matplotlib.pyplot as plt
+import pathlib as pl
+import statsmodels.formula.api as smf
+from statsmodels.stats.outliers_influence import summary_table
+
+# ----------- user serviceable pararameters
+data_file: str = ""  # csv file name
+figure_name: str = ""  # figure name
+
+x_var_loc: int = 0  # colum # in spreadsheet
+y_var_loc: int = 1  # colum # in spreadsheer
+
+x_axis_label: str = ""
+y_axis_label: str = ""
+size_x: number = 6  # size in inches
+size_y: number = 4  # size in inches
+
+confidence_level: float = 0.05  # 1 - alpha in %
+
+# ----------- main program ---------------------------------
+# --- variable declarations
+
+# --- code starts here
