@@ -1,7 +1,6 @@
 # Python for a non technical audience
-A collection of Jupyter Notebooks for ESS245 Computational Geology. 
-These are specifically targeted to a non-technical audience with no
-previous computing experience.
+A collection of Jupyter Notebooks that introduce the python programming language. Each section consists of a tutorial and an excercise module. These are specifically targeted to a non-technical audience with no previous computing experience. The accompanying textbook is available
+as pdf.
 
 Feel free to use these, but please follow the GPL license
 terms. Specifically, if you modify the files, save them under a new
