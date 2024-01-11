@@ -41,10 +41,9 @@ A Jupyter notebook has three principal elements see Fig.ref:nbexample
 
 If you are still reading this as a pdf file, please switch to the notebook
 version of this very text by following this link
-https://utoronto.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/uliw/PNTA-Notebooks&urlpath=tree/PNTA-Notebooks//Interacting_with_Jupyter/Interacting_with_jupyter-2.ipynb&branch=main
 
+https://utoronto.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https://github.com/uliw/PNTA-Notebooks&urlpath=lab/tree/PNTA-Notebooks/Interacting_with_Jupyter/Interacting_with_jupyter-2.ipynb&branch=main
 
-Now, you can follow the instructions below:
 
 If you do a single left click with your mouse on this text, you will
 see that this cell is now drawn with a blue border. This indicates that the cell has been selected.
@@ -57,7 +56,7 @@ see that this cell is now drawn with a blue border. This indicates that the cell
 
 
 If you double-click on this cell, you will see that the cell
-background changes to gray, rendering the text in a
+background changes to gray, rendering the tqext in a
 typewriter font. This indicates that you are now in editing mode. You
 can leave the editing mode any time by hitting =Shift-Enter=.
 #+ATTR_LATEX: :width 0.7\textwidth
@@ -89,8 +88,8 @@ rule. Please speak to a TA or the instructor to resolve this issue.
 ** Formatting Text
 Before exploring how-to-use Jupyter notebooks to run python code,
 let's explore how to format the text in the text cells. Create  a
-new notebook in your =My_stuff= folder. You can do this via the drop-down list called =New= in the upper right corner, and then select
-=Python 3=, and rename the new file. These steps should now pose no
+new notebook in your =my_stuff= folder. You can do this via the drop-down list called =New= in the upper right corner, and then select
+=New Notebook=, and rename the new file. These steps should now pose no
 problem to you. If they do, please speak up!
 
 Once your new notebook is open, it will look like
@@ -166,13 +165,9 @@ floppy disk icon (leftmost, directly under =File=) to save your work!*
 
 ** Downloading your notebook
 All of your assignments will have to be submitted on Quercus. In order
-to mark your assignments, you need to submit a pdf copy, as well as
-the actual notebook file. This is easily done via the =File= dialogue
-(see Fig. ref:fdialog)
-#+ATTR_LATEX: :width 0.7\textwidth
-#+name: fdialog
-#+caption: You can download the notebook in a variety of formats. 
-[[./figures/Screenshot_20200527_161555.png]]
+to mark your assignments, you need to submit a *pdf copy*, as well as
+the *actual notebook file*.  For the pdf-copy, use =File -> Print=  and select =save as pdf=. For the notebook, use =File -> Download= 
+
 
 
 ** Recap
