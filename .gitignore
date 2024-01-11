@@ -2,3 +2,4 @@
 .directory
 .ipynb_checkpoints
 *.tex
+*.org
