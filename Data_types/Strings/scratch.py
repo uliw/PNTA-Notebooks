@@ -1,5 +1,10 @@
 
+data = {"ESS245": {"Jen": {"Assignment 1": 10}}}
 
-data["ESS245"]["Jen"]["Assignment 1"]
+print(data["ESS245"]["Jen"]["Assignment 1"])
 
-data = {"ESS245": {"Jen": {"Assignment 1":0}}}
+
+a = [ 1, 2, 3]
+a.reverse().sort()
+print(a)
+
