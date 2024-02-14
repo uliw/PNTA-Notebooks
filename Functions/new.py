@@ -55,15 +55,15 @@ def fd(d: dict, level=0) -> str:
     d = {
     "Brian": 0,
     "Bob": [1, 2, 3, 4, 5, 6, 7, 8],
-    "Sam": {"Exams": 75, "Other": 90},
+    "Sam": {"Exams": 75, "Quizzes": 90},
     "Liam": [1, 2],
     }
     should print as
 
     Brian:	0
     Bob:	[1, 2, 3, ..., 8]
-    Sam:	Exams:	75
-    Other:	90
+    Sam:	Exams:	 75
+                Quizzes: 90
 
     Liam:	[1, 2]
 
