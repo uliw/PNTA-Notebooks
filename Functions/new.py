@@ -12,7 +12,7 @@ def fl(l: list | tuple) -> str:
     """
     s = "["
     for e in l[:3]:
-        s = f"{s}{e}, "
+        s = f"{s}{fv(e,0)}, "
     s = f"{s}..., {l[-1]}]"
 
     return s
@@ -83,4 +83,7 @@ def fd(d: dict, level=0) -> str:
     return s
 
 
-print(fd(d))
+# print(fd(d))
+
+k: list[any] = [1.000012, 2e13, [1, 2, 3, 4, 5, 6, 78, [*"Hello World"]]]
+print(fl(k))
