@@ -1,3 +1,5 @@
+from typing import Any
+
 d = {
     "Brian": 0,
     "Bob": [1, 2, 3, 4, 5, 6, 7, 8],
@@ -13,12 +15,12 @@ def fl(l: list | tuple) -> str:
     s = "["
     for e in l[:3]:
         s = f"{s}{fv(e,0)}, "
-    s = f"{s}..., {l[-1]}]"
+    s = f"{s}..., {fv(l[-1],0)}]"
 
     return s
 
 
-def fv(v: any, level) -> str:
+def fv(v: Any, level) -> str:
     """return a fomatted string of v
 
     for numbers return the number according to
@@ -37,10 +39,7 @@ def fv(v: any, level) -> str:
     elif isinstance(v, (int, float)):
         s = f"{v:n}"
     elif isinstance(v, (list, tuple)):
-        if len(v) < 5:
-            s = f"{v}"
-        else:
-            s = f"{fl(v)}"
+        s = fl(v)
     elif isinstance(v, (dict)):
         level = level + 1
         s = f"{fd(v, level)}"
@@ -85,5 +84,18 @@ def fd(d: dict, level=0) -> str:
 
 # print(fd(d))
 
-k: list[any] = [1.000012, 2e13, [1, 2, 3, 4, 5, 6, 78, [*"Hello World"]]]
+k: list[Any] = [
+    1.000012,
+    2e13,
+    [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        78,
+        [*"Hello World"],
+    ],
+]
 print(fl(k))
