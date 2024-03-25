@@ -14,10 +14,10 @@ x_noise = rng.standard_normal(100)
 y_noise = rng.standard_normal(100)  
 
 x_data = np.linspace(1, 10, 100)
-y_data = np.linspace(1, 10, 100)
+y_data = np.linspace(10, 1, 100)
 
 x = x_data + x_noise
-y = np.exp(y_data + y_noise)
+y = y_data + y_noise
 
 
 # plt.style.use("uli")
@@ -31,4 +31,4 @@ sm.qqplot(x, ax=ax, line="s")
 plt.show()
 
 df = pd.DataFrame({"X": x, "Y": y})
-df.to_csv("y_log.csv", index=False)
+df.to_csv("nd_negative.csv", index=False)
