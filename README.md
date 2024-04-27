@@ -7,7 +7,7 @@ Feel free to use these, but please follow the GPL license
 terms. Specifically, if you modify the files, save them under a new
 name, and reference the original.
 
-Copyright (C) 2019-2022 Ulrich G. Wortmann 
+Copyright (C) 2019-2024 Ulrich G. Wortmann 
 
 These notebooks come with ABSOLUTELY NO WARRANTY; This is free
 software, and you are welcome to redistribute it under certain
