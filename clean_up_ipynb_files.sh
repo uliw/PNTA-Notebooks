@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/uliw/user/python-scripts/PNTA
+cd /home/uliw/user/python-scripts/PNTA || exit
 
 find . -name "*.ipynb" -exec rm {} \;
 
