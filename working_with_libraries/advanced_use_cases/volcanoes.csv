@@ -1,0 +1,660 @@
+"Year","Name","Location","Country","Elevation","Type","Volcano Explosivity Index (VEI)","DEATHS"
+,,,,,,,
+-4360,"Macauley Island","Kermadec Is","New Zealand",238,"Caldera",6,
+-4350,"Kikai","Ryukyu Is","Japan",717,"Caldera",7,
+-4050,"Masaya","Nicaragua","Nicaragua",635,"Caldera",6,
+-4000,"Pago","New Britain-SW Pac","Papua New Guinea",742,"Caldera",6,
+-3580,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",6,
+-3550,"Pinatubo","Luzon-Philippines","Philippines",1486,"Stratovolcano",6,
+-2040,"Long Island","New Guinea-NE of","Papua New Guinea",1280,"Complex volcano",6,
+-1900,"Black Peak","Alaska Peninsula","United States",1032,"Stratovolcano",6,
+-1890,"Hudson, Cerro","Chile-S","Chile",1905,"Stratovolcano",6,
+-1860,"St. Helens","US-Washington","United States",2549,"Stratovolcano",6,
+-1750,"Veniaminof","Alaska Peninsula","United States",2507,"Stratovolcano",6,
+-1645,"Aniakchak","Alaska Peninsula","United States",1341,"Caldera",6,
+-1610,"Santorini","Greece","Greece",329,"Shield volcano",6,
+-1550,"Redoubt","Alaska-SW","United States",3108,"Stratovolcano",,
+-1460,"Taupo","New Zealand","New Zealand",760,"Caldera",6,
+-1370,"Pago","New Britain-SW Pac","Papua New Guinea",742,"Caldera",6,
+-1050,"Pinatubo","Luzon-Philippines","Philippines",1486,"Stratovolcano",6,
+-250,"Raoul Island","Kermadec Is","New Zealand",516,"Stratovolcano",6,
+-197,"Santorini","Greece","Greece",329,"Shield volcano",3,
+-150,"St. Andrew Strait","Admiralty Is-SW Paci","Papua New Guinea",270,"Complex volcano",,
+-141,"Etna","Italy","Italy",3350,"Stratovolcano",,40
+-100,"Okmok","Aleutian Is","United States",1073,"Shield volcano",6,
+-50,"Apoyeque","Nicaragua","Nicaragua",518,"Pyroclastic shield",6,
+46,"Santorini","Greece","Greece",329,"Shield volcano",3,
+50,"Ambrym","Vanuatu-SW Pacific","Vanuatu",1334,"Pyroclastic shield",6,
+60,"Bona-Churchill","Alaska-E","United States",5005,"Stratovolcano",6,
+79,"Vesuvius","Italy","Italy",1281,"Complex volcano",5,3500
+200,"Arhab, Harra of","Arabia-S","Yemen",3100,"Volcanic field",,
+230,"Taupo","New Zealand","New Zealand",760,"Caldera",6,
+240,"Ksudach","Kamchatka","Russia",1079,"Stratovolcano",6,
+350,"Augustine","Alaska-SW","United States",1252,"Lava dome",,
+416,"Krakatau","Indonesia","Indonesia",813,"Caldera",,
+450,"Ilopango","El Salvador","El Salvador",450,"Caldera",6,30000
+500,"Arhab, Harra of","Arabia-S","Yemen",3100,"Volcanic field",,
+540,"Rabaul","New Britain-SW Pac","Papua New Guinea",688,"Pyroclastic shield",6,
+590,"San Salvador","El Salvador","El Salvador",1893,"Stratovolcano",,
+640,"Uwayrid, Harrat","Arabia-W","Saudi Arabia",1900,"Volcanic field",2,
+710,"Pago","New Britain-SW Pac","Papua New Guinea",742,"Caldera",6,
+764,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,80
+766,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",3,
+787,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,
+800,"Dakataua","New Britain-SW Pac","Papua New Guinea",400,"Caldera",6,
+800,"Bona-Churchill","Alaska-E","United States",5005,"Stratovolcano",6,
+920,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+930,"Ceboruco","Mexico","Mexico",2280,"Stratovolcano",6,
+934,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+950,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",,
+1000,"Changbaishan","China-E","North Korea",2744,"Stratovolcano",7,
+1050,"Santorini","Greece","Greece",329,"Shield volcano",,
+1104,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",5,
+1151,"Krisuvik","Iceland-SW","Iceland",379,"Crater rows",1,
+1158,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1169,"Etna","Italy","Italy",3350,"Stratovolcano",,
+1169,"Etna","Italy","Italy",3350,"Stratovolcano",,
+1177,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",3,
+1206,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",2,
+1250,"Fentale","Africa-NE","Ethiopia",2007,"Stratovolcano",,
+1262,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",3,
+1280,"Quilotoa","Ecuador","Ecuador",3914,"Caldera",6,
+1300,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1302,"Ischia","Italy","Italy",789,"Complex volcano",,
+1311,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1311,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1329,"Etna","Italy","Italy",3350,"Stratovolcano",3,
+1329,"Etna","Italy","Italy",3350,"Stratovolcano",1,
+1331,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,
+1334,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1341,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",3,
+1357,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1362,"Oraefajokull","Iceland-SE","Iceland",2119,"Stratovolcano",5,220
+1376,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1385,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1389,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",3,
+1410,"Nasu","Honshu-Japan","Japan",1917,"Stratovolcano",3,180
+1452,"Kuwae","Vanuatu-SW Pacific","Vanuatu",-2,"Caldera",6,
+1471,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",5,
+1477,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",6,
+1485,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,1
+1500,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1510,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,1
+1536,"Etna","Italy","Italy",3350,"Stratovolcano",3,1
+1538,"Campi Flegrei","Italy","Italy",458,"Caldera",3,24
+1540,"Augustine","Alaska-SW","United States",1252,"Lava dome",4,
+1550,"Dukono","Halmahera-Indonesia","Indonesia",1185,"Complex volcano",3,
+1564,"Gamkonora","Halmahera-Indonesia","Indonesia",1635,"Stratovolcano",3,
+1565,"Pacaya","Guatemala","Guatemala",2552,"Complex volcano",3,
+1566,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",3,
+1570,"Mombacho","Nicaragua","Nicaragua",1344,"Stratovolcano",,400
+1576,"Colima","Mexico","Mexico",3850,"Stratovolcano",3,
+1580,"San Jorge","Azores","Portugal",1053,"Fissure vent",3,10
+1580,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1581,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",4,
+1586,"Kelut","Java","Indonesia",1731,"Stratovolcano",5,10000
+1587,"Merapi","Java","Indonesia",2947,"Stratovolcano",4,
+1593,"Raung","Java","Indonesia",3332,"Stratovolcano",5,
+1595,"Ruiz","Colombia","Colombia",5321,"Stratovolcano",4,636
+1596,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,
+1597,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1597,"Raung","Java","Indonesia",3332,"Stratovolcano",3,
+1598,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,800
+1598,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",3,
+1600,"Huaynaputina","Peru","Peru",4850,"Stratovolcano",6,1400
+1606,"Hachijo-jima","Izu Is-Japan","Japan",854,"Stratovolcano",2,
+1608,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",3,
+1609,"Tengchong","China-S","China",2865,"Pyroclastic cone",,
+1615,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",3,
+1617,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",3,
+1625,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",5,
+1629,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",2,4
+1630,"Furnas","Azores","Portugal",805,"Stratovolcano",4,200
+1631,"Dama Ali","Africa-NE","Ethiopia",1068,"Shield volcano",,50
+1631,"Vesuvius","Italy","Italy",1281,"Complex volcano",4,4000
+1636,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",3,
+1638,"Raung","Java","Indonesia",3332,"Stratovolcano",3,1000
+1640,"Komaga-take","Hokkaido-Japan","Japan",1140,"Stratovolcano",5,
+1646,"Makian","Halmahera-Indonesia","Indonesia",1357,"Stratovolcano",4,
+1650,"Santorini","Greece","Greece",329,"Shield volcano",4,120
+1659,"San Salvador","El Salvador","El Salvador",1893,"Stratovolcano",3,
+1659,"Teon","Banda Sea","Pacific Ocean",655,"Stratovolcano",4,
+1660,"Teon","Banda Sea","Pacific Ocean",655,"Stratovolcano",4,3
+1660,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1660,"Long Island","New Guinea-NE of","Papua New Guinea",1280,"Complex volcano",6,2000
+1663,"Usu","Hokkaido-Japan","Japan",731,"Stratovolcano",5,5
+1664,"Unzen","Kyushu-Japan","Japan",1500,"Complex volcano",2,30
+1664,"Iwo-Tori-shima","Ryukyu Is","Japan",217,"Complex volcano",,1
+1669,"Etna","Italy","Italy",3350,"Stratovolcano",3,
+1670,"Aoba","Vanuatu-SW Pacific","Vanuatu",1496,"Shield volcano",2,
+1672,"Fayal","Azores","Portugal",1043,"Stratovolcano",2,3
+1672,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,3000
+1673,"Gamkonora","Halmahera-Indonesia","Indonesia",1635,"Stratovolcano",5,
+1677,"La Palma","Canary Is","Spain",2426,"Stratovolcano",2,1
+1679,"Zukur","Red Sea","Yemen",624,"Shield volcano",,
+1682,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,4
+1684,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",2,1
+1690,"Vesuvius","Italy","Italy",1281,"Complex volcano",,
+1690,"Guntur","Java","Indonesia",2249,"Complex volcano",3,
+1692,"Serua","Banda Sea","Pacific Ocean",641,"Stratovolcano",4,
+1693,"Etna","Italy","Italy",3350,"Stratovolcano",,
+1693,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1694,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",3,
+1698,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,
+1698,"Cotopaxi","Ecuador","Ecuador",5911,"Stratovolcano",3,
+1698,"Cereme","Java","Indonesia",3078,"Stratovolcano",3,
+1706,"Tenerife","Canary Is","Spain",3715,"Stratovolcano",2,
+1707,"Santorini","Greece","Greece",329,"Shield volcano",,
+1707,"Fuji","Honshu-Japan","Japan",3776,"Stratovolcano",4,
+1711,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",3,3000
+1712,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",2,
+1714,"Vesuvius","Italy","Italy",1281,"Complex volcano",,
+1716,"Kelut","Java","Indonesia",1731,"Stratovolcano",2,
+1716,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",4,
+1716,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",2,
+1716,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",3,1
+1717,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",3,1
+1717,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",3,
+1717,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",3,
+1718,"Pico","Azores","Portugal",2351,"Stratovolcano",2,2
+1721,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",5,
+1721,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",1,15
+1726,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",1,
+1727,"Oraefajokull","Iceland-SE","Iceland",2119,"Stratovolcano",4,3
+1729,"Bardarbunga","Iceland-NE","Iceland",2000,"Stratovolcano",1,
+1729,"Krafla","Iceland-NE","Iceland",650,"Caldera",2,
+1730,"Lanzarote","Canary Is","Spain",670,"Fissure vent",2,
+1730,"Raung","Java","Indonesia",3332,"Stratovolcano",3,
+1730,"Tseax River Cone","Canada","Canada",609,"Pyroclastic cone",,
+1737,"Vesuvius","Italy","Italy",1281,"Complex volcano",2,2
+1741,"Oshima-Oshima","Hokkaido-Japan","Japan",737,"Stratovolcano",4,
+1742,"Cotopaxi","Ecuador","Ecuador",5911,"Stratovolcano",3,
+1742,"Cotopaxi","Ecuador","Ecuador",5911,"Stratovolcano",3,
+1749,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",3,
+1753,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",2,
+1754,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",4,12
+1755,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,2
+1757,"San Jorge","Azores","Portugal",1053,"Fissure vent",0,
+1760,"Makian","Halmahera-Indonesia","Indonesia",1357,"Stratovolcano",4,2000
+1762,"Kliuchevskoi","Kamchatka","Russia",4835,"Stratovolcano",2,
+1766,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1766,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,49
+1768,"Cotopaxi","Ecuador","Ecuador",5911,"Stratovolcano",4,
+1772,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",3,35
+1772,"Papandayan","Java","Indonesia",2665,"Stratovolcano",3,2957
+1773,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",2,
+1775,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",3,1300
+1775,"Lokon-Empung","Sulawesi-Indonesia","Indonesia",1580,"Stratovolcano",3,
+1778,"Raikoke","Kuril Is","Russia",551,"Stratovolcano",4,15
+1779,"Vesuvius","Italy","Italy",1281,"Complex volcano",2,
+1779,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,153
+1780,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,
+1780,"Aoga-shima","Izu Is-Japan","Japan",423,"Stratovolcano",3,7
+1780,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,
+1780,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",,
+1781,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,23
+1783,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",4,1491
+1784,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",4,9350
+1784,"Sabancaya","Peru","Peru",5967,"Stratovolcano",,
+1785,"Aoga-shima","Izu Is-Japan","Japan",423,"Stratovolcano",3,135
+1786,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",2,38
+1789,"Oshima","Izu Is-Japan","Japan",758,"Stratovolcano",2,
+1790,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",4,5405
+1792,"Unzen","Kyushu-Japan","Japan",1500,"Complex volcano",2,
+1794,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,400
+1800,"San Jorge","Azores","Portugal",1053,"Fissure vent",1,9
+1800,"Guntur","Java","Indonesia",2249,"Complex volcano",,
+1800,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",2,
+1800,"Kieyo","Africa-E","Tanzania",2175,"Stratovolcano",2,
+1800,"Hualalai","Hawaiian Is","United States",2523,"Shield volcano",0,2
+1801,"Chokai","Honshu-Japan","Japan",2237,"Stratovolcano",2,8
+1803,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,
+1803,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,
+1804,"Shikotsu","Hokkaido-Japan","Japan",1320,"Caldera",3,
+1805,"Vesuvius","Italy","Italy",1281,"Complex volcano",2,4
+1812,"Soufriere St. Vincent","W Indies","St. Vincent & the Grenadines",1220,"Stratovolcano",4,56
+1812,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",3,953
+1814,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",4,1200
+1815,"Tambora","Lesser Sunda Is","Indonesia",2850,"Stratovolcano",7,10000
+1816,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,1
+1817,"Ijen","Java","Indonesia",2799,"Stratovolcano",2,
+1817,"Raung","Java","Indonesia",3332,"Stratovolcano",4,
+1818,"Colima","Mexico","Mexico",3850,"Stratovolcano",4,
+1819,"Asuncion","Mariana Is-C Pacific","United States",857,"Stratovolcano",,
+1820,"Westdahl","Aleutian Is","United States",1654,"Stratovolcano",2,
+1820,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",2,
+1822,"Usu","Hokkaido-Japan","Japan",731,"Stratovolcano",4,50
+1822,"Galunggung","Java","Indonesia",2168,"Stratovolcano",5,4011
+1822,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,100
+1823,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",0,
+1824,"Shishaldin","Aleutian Is","United States",2857,"Stratovolcano",3,
+1825,"Balbi","Bougainville-SW Paci","Papua New Guinea",2715,"Stratovolcano",,
+1826,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",2,
+1826,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1826,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,
+1827,"Avachinsky","Kamchatka","Russia",2741,"Stratovolcano",2,
+1827,"Avachinsky","Kamchatka","Russia",2741,"Stratovolcano",2,
+1829,"Guntur","Java","Indonesia",2249,"Complex volcano",2,
+1832,"Etna","Italy","Italy",3350,"Stratovolcano",2,
+1832,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,32
+1833,"Kaba","Sumatra","Indonesia",1952,"Stratovolcano",2,126
+1835,"Cosiguina","Nicaragua","Nicaragua",872,"Stratovolcano",5,
+1835,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",,
+1837,"Peuet Sague","Sumatra","Indonesia",2801,"Complex volcano",,
+1838,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",2,4
+1839,"Unnamed","Chile-Is","Chile",-642,"Submarine volcano",2,
+1840,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",2,
+1840,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",0,
+1840,"Tinakula","Santa Cruz Is-SW Pac","Solomon Is.",851,"Stratovolcano",3,
+1840,"Savo","Solomon Is-SW Pacifi","Solomon Is.",510,"Stratovolcano",3,
+1841,"Kuchinoerabu-jima","Ryukyu Is","Japan",649,"Stratovolcano",2,
+1843,"Liamuiga","W Indies","St. Kitts & Nevis",1156,"Stratovolcano",0,
+1843,"Soufriere Guadeloupe","W Indies","Guadeloupe",1467,"Stratovolcano",,
+1843,"Lamongan","Java","Indonesia",1651,"Stratovolcano",2,4
+1843,"Etna","Italy","Italy",3350,"Stratovolcano",2,56
+1845,"Soputan","Sulawesi-Indonesia","Indonesia",1784,"Stratovolcano",2,
+1845,"Ruiz","Colombia","Colombia",5321,"Stratovolcano",2,1000
+1845,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,
+1846,"Tangkubanparahu","Java","Indonesia",2084,"Stratovolcano",2,
+1846,"E-san","Hokkaido-Japan","Japan",618,"Stratovolcano",1,
+1847,"Fogo","Cape Verde Is","Cape Verde",2829,"Stratovolcano",2,
+1847,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",2,
+1848,"Kelut","Java","Indonesia",1731,"Stratovolcano",2,21
+1850,"Rabaul","New Britain-SW Pac","Papua New Guinea",688,"Pyroclastic shield",2,
+1853,"Niuafo'ou","Tonga-SW Pacific","Tonga",260,"Shield volcano",0,25
+1853,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,34
+1853,"Unnamed","Taiwan-E of","Taiwan",0,"Submarine volcano",2,
+1854,"Shiveluch","Kamchatka","Russia",3283,"Stratovolcano",5,
+1854,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,3
+1856,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",3,2806
+1856,"Shishaldin","Aleutian Is","United States",2857,"Stratovolcano",,
+1856,"Komaga-take","Hokkaido-Japan","Japan",1140,"Stratovolcano",4,20
+1857,"Umboi","New Guinea-NE of","Papua New Guinea",1548,"Complex volcano",,
+1858,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",2,
+1860,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,
+1860,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",2,
+1861,"Dubbi","Africa-NE","Eritrea",1625,"Stratovolcano",3,106
+1861,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",2,
+1861,"Makian","Halmahera-Indonesia","Indonesia",1357,"Stratovolcano",4,326
+1863,"Yasur","Vanuatu-SW Pacific","Vanuatu",361,"Stratovolcano",,
+1864,"Kelut","Java","Indonesia",1731,"Stratovolcano",2,54
+1866,"Ofu-Olosega","Samoa-SW Pacific","United States",639,"Shield volcano",2,
+1867,"Zao","Honshu-Japan","Japan",1841,"Complex volcano",2,3
+1868,"Mauna Loa","Hawaiian Is","United States",4170,"Shield volcano",2,
+1868,"Etna","Italy","Italy",3350,"Stratovolcano",,
+1869,"Lewotobi","Lesser Sunda Is","Indonesia",1703,"Stratovolcano",2,2
+1869,"Lamongan","Java","Indonesia",1651,"Stratovolcano",2,8
+1870,"Ruang","Sangihe Is-Indonesia","Indonesia",725,"Stratovolcano",2,
+1870,"Iliwerung","Lesser Sunda Is","Indonesia",1018,"Complex volcano",3,
+1870,"Aoba","Vanuatu-SW Pacific","Vanuatu",1496,"Shield volcano",2,
+1871,"Ruang","Sangihe Is-Indonesia","Indonesia",725,"Stratovolcano",2,
+1871,"Hibok-Hibok","Mindanao-Philippines","Philippines",1332,"Stratovolcano",2,
+1871,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",2,1
+1871,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,3
+1872,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,9
+1872,"Merapi","Java","Indonesia",2947,"Stratovolcano",4,200
+1872,"Aso","Kyushu-Japan","Japan",1592,"Caldera",3,4
+1872,"Sinarka","Kuril Is","Russia",934,"Stratovolcano",4,
+1873,"Ragang","Mindanao-Philippines","Philippines",2815,"Stratovolcano",2,
+1874,"Miyake-jima","Izu Is-Japan","Japan",815,"Stratovolcano",3,1
+1874,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",2,
+1875,"Kelut","Java","Indonesia",1731,"Stratovolcano",0,
+1875,"Askja","Iceland-NE","Iceland",1516,"Stratovolcano",5,
+1877,"Mauna Loa","Hawaiian Is","United States",4170,"Shield volcano",0,
+1877,"Cotopaxi","Ecuador","Ecuador",5911,"Stratovolcano",4,340
+1878,"Yasur","Vanuatu-SW Pacific","Vanuatu",361,"Stratovolcano",3,
+1878,"Rabaul","New Britain-SW Pac","Papua New Guinea",688,"Pyroclastic shield",3,1
+1878,"Yasur","Vanuatu-SW Pacific","Vanuatu",361,"Stratovolcano",,
+1878,"Okmok","Aleutian Is","United States",1073,"Shield volcano",2,
+1879,"Stromboli","Italy","Italy",926,"Stratovolcano",2,
+1883,"Karthala","Indian O-W","Comoros",2361,"Shield volcano",2,
+1883,"Krakatau","Indonesia","Indonesia",813,"Caldera",6,2000
+1883,"Augustine","Alaska-SW","United States",1252,"Lava dome",4,8
+1883,"Krakatau","Indonesia","Indonesia",813,"Caldera",,
+1883,"Bagana","Bougainville-SW Paci","Papua New Guinea",1750,"Lava cone",3,
+1884,"Krakatau","Indonesia","Indonesia",813,"Caldera",,
+1884,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,74
+1885,"Purace","Colombia","Colombia",4650,"Stratovolcano",3,
+1886,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",4,2
+1886,"Okataina","New Zealand","New Zealand",1111,"Lava dome",2,153
+1886,"Niuafo'ou","Tonga-SW Pacific","Tonga",260,"Shield volcano",4,
+1887,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,15
+1888,"Ritter Island","New Guinea-NE of","Papua New Guinea",140,"Stratovolcano",3,
+1888,"Bandai","Honshu-Japan","Japan",1819,"Stratovolcano",4,461
+1889,"Banua Wuhu","Sangihe Is-Indonesia","Indonesia",-5,"Submarine volcano",2,
+1890,"Makian","Halmahera-Indonesia","Indonesia",1357,"Stratovolcano",2,
+1890,"Victory","New Guinea","Papua New Guinea",1925,"Stratovolcano",2,
+1892,"Sorikmarapi","Sumatra","Indonesia",2145,"Stratovolcano",2,180
+1892,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",3,1532
+1893,"Azuma","Honshu-Japan","Japan",2024,"Stratovolcano",2,2
+1894,"Ambrym","Vanuatu-SW Pacific","Vanuatu",1334,"Pyroclastic shield",3,10
+1895,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,
+1895,"Karkar","New Guinea-NE of","Papua New Guinea",1839,"Stratovolcano",2,21
+1895,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",2,4
+1895,"Dakataua","New Britain-SW Pac","Papua New Guinea",400,"Caldera",2,
+1896,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",2,1
+1897,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,350
+1899,"Dona Juana","Colombia","Colombia",4150,"Stratovolcano",4,55
+1899,"Manam","New Guinea-NE of","Papua New Guinea",1807,"Stratovolcano",2,2
+1900,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,25
+1900,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",2,2
+1900,"Adatara","Honshu-Japan","Japan",1718,"Stratovolcano",2,72
+1900,"Tullu Moje","Africa-NE","Ethiopia",2349,"Pumice cone",,
+1901,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,
+1901,"Epi","Vanuatu-SW Pacific","Vanuatu",833,"Stratovolcano",,
+1902,"Pelee","W Indies","Martinique",1397,"Stratovolcano",,23
+1902,"Soufriere St. Vincent","W Indies","St. Vincent & the Grenadines",1220,"Stratovolcano",4,1680
+1902,"Pelee","W Indies","Martinique",1397,"Stratovolcano",4,28000
+1902,"Pelee","W Indies","Martinique",1397,"Stratovolcano",,
+1902,"Tori-shima","Izu Is-Japan","Japan",403,"Stratovolcano",3,125
+1902,"Pelee","W Indies","Martinique",1397,"Stratovolcano",4,1000
+1902,"Santa Maria","Guatemala","Guatemala",3772,"Stratovolcano",6,1500
+1902,"Merapi","Java","Indonesia",2947,"Stratovolcano",2,16
+1903,"Okataina","New Zealand","New Zealand",1111,"Lava dome",1,4
+1904,"Karthala","Indian O-W","Comoros",2361,"Shield volcano",2,1
+1905,"Vesuvius","Italy","Italy",1281,"Complex volcano",2,1
+1905,"Savai'i","Samoa-SW Pacific","Samoa",1858,"Shield volcano",2,
+1906,"Vesuvius","Italy","Italy",1281,"Complex volcano",3,350
+1907,"Unnamed","Tonga-SW Pacific","Tonga",-500,"Submarine volcano",0,
+1907,"Alayta","Africa-NE","Ethiopia",1501,"Shield volcano",2,
+1907,"Lewotobi","Lesser Sunda Is","Indonesia",1703,"Stratovolcano",2,1
+1907,"Savai'i","Samoa-SW Pacific","Samoa",1858,"Shield volcano",,
+1909,"Cameroon, Mt.","Africa-W","Cameroon",4095,"Stratovolcano",2,
+1909,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,221
+1910,"Usu","Hokkaido-Japan","Japan",731,"Stratovolcano",2,1
+1911,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",4,1335
+1911,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,1
+1911,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,
+1911,"Piparo","Trinidad","Trinidad ",140,"Mud volcano",,
+1911,"Semeru","Java","Indonesia",3676,"Stratovolcano",3,
+1912,"Novarupta","Alaska Peninsula","United States",841,"Caldera",6,2
+1912,"Nyamuragira","Africa-C","Congo, DRC",3058,"Shield volcano",3,20
+1913,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",2,
+1913,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,
+1913,"Ambrym","Vanuatu-SW Pacific","Vanuatu",1334,"Pyroclastic shield",3,21
+1914,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",4,28
+1914,"Pago","New Britain-SW Pac","Papua New Guinea",742,"Caldera",3,
+1914,"White Island","New Zealand","New Zealand",321,"Stratovolcano",,11
+1916,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",4,
+1916,"Stromboli","Italy","Italy",926,"Stratovolcano",3,
+1917,"Lengai, Ol Doinyo","Africa-E","Tanzania",2890,"Stratovolcano",3,
+1917,"Okataina","New Zealand","New Zealand",1111,"Lava dome",1,2
+1917,"San Salvador","El Salvador","El Salvador",1893,"Stratovolcano",3,325
+1918,"Banua Wuhu","Sangihe Is-Indonesia","Indonesia",-5,"Submarine volcano",3,
+1918,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",4,
+1919,"Popocatepetl","Mexico","Mexico",5426,"Stratovolcano",1,
+1919,"Banua Wuhu","Sangihe Is-Indonesia","Indonesia",-5,"Submarine volcano",,
+1919,"Kelut","Java","Indonesia",1731,"Stratovolcano",4,5110
+1919,"Stromboli","Italy","Italy",926,"Stratovolcano",3,4
+1919,"Mauna Loa","Hawaiian Is","United States",4170,"Shield volcano",0,
+1920,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,33
+1920,"Izalco","El Salvador","El Salvador",1950,"Stratovolcano",3,
+1923,"Papandayan","Java","Indonesia",2665,"Stratovolcano",1,1
+1923,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",2,1
+1924,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",2,1
+1926,"Tokachi","Hokkaido-Japan","Japan",2077,"Stratovolcano",3,146
+1927,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",,
+1927,"Esjufjoll","Iceland-SE","Iceland",1760,"Stratovolcano",1,1
+1928,"Santorini","Greece","Greece",329,"Shield volcano",2,48
+1928,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,
+1928,"Krakatau","Indonesia","Indonesia",813,"Caldera",,
+1928,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",2,40
+1928,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",3,98
+1928,"Etna","Italy","Italy",3350,"Stratovolcano",1,5
+1929,"Komaga-take","Hokkaido-Japan","Japan",1140,"Stratovolcano",4,2
+1929,"Santa Maria","Guatemala","Guatemala",3772,"Stratovolcano",3,200
+1930,"Krakatau","Indonesia","Indonesia",813,"Caldera",2,
+1930,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",3,6
+1930,"Stromboli","Italy","Italy",926,"Stratovolcano",3,5
+1930,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,1369
+1931,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",3,3
+1932,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",4,
+1932,"Kusatsu-Shirane","Honshu-Japan","Japan",2176,"Stratovolcano",3,2
+1933,"Kharimkotan","Kuril Is","Russia",1145,"Stratovolcano",3,
+1933,"Kuchinoerabu-jima","Ryukyu Is","Japan",649,"Stratovolcano",4,8
+1933,"Bulusan","Luzon-Philippines","Philippines",1565,"Stratovolcano",2,
+1936,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",3,2
+1937,"Llaima","Chile-C","Chile",3125,"Stratovolcano",2,3
+1937,"Rabaul","New Britain-SW Pac","Papua New Guinea",688,"Pyroclastic shield",4,507
+1938,"Nyamuragira","Africa-C","Congo, DRC",3058,"Shield volcano",1,
+1938,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",2,
+1939,"Tori-shima","Izu Is-Japan","Japan",403,"Stratovolcano",2,2
+1939,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",1,10
+1940,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",2,1
+1940,"Miyake-jima","Izu Is-Japan","Japan",815,"Stratovolcano",2,11
+1940,"Lengai, Ol Doinyo","Africa-E","Tanzania",2890,"Stratovolcano",2,
+1941,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,1
+1941,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,
+1943,"Michoacan-Guanajuato","Mexico","Mexico",3860,"Cinder cone",4,3
+1943,"Azul, Cerro","Galapagos","Ecuador",1690,"Shield volcano",3,1
+1944,"Vesuvius","Italy","Italy",1281,"Complex volcano",2,27
+1944,"Cleveland","Aleutian Is","United States",1730,"Stratovolcano",3,1
+1944,"Usu","Hokkaido-Japan","Japan",731,"Stratovolcano",2,1
+1944,"Stromboli","Italy","Italy",926,"Stratovolcano",2,
+1944,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",2,117
+1946,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",2,1
+1946,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,6
+1946,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,
+1947,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",2,
+1947,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,11
+1947,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",4,1
+1948,"Iliwerung","Lesser Sunda Is","Indonesia",1018,"Complex volcano",2,
+1948,"Hibok-Hibok","Mindanao-Philippines","Philippines",1332,"Stratovolcano",3,68
+1948,"Villarrica","Chile-C","Chile",2847,"Stratovolcano",3,36
+1949,"Purace","Colombia","Colombia",4650,"Stratovolcano",2,17
+1950,"Semeru","Java","Indonesia",3676,"Stratovolcano",1,6
+1950,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,1
+1951,"Lamington","New Guinea","Papua New Guinea",1680,"Stratovolcano",4,2942
+1951,"Cosiguina","Nicaragua","Nicaragua",872,"Stratovolcano",,
+1951,"Kelut","Java","Indonesia",1731,"Stratovolcano",3,7
+1951,"Kavachi","Solomon Is-SW Pacifi","Solomon Is.",-20,"Submarine volcano",2,
+1952,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,
+1952,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,
+1952,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,31
+1952,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,
+1952,"Ambalatungan Group","Luzon-Philippines","Philippines",2329,"Compound volcano",1,12
+1953,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,
+1953,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,64
+1953,"Myojun Knoll","Izu Is-Japan","Japan",360,"Submarine volcano",2,
+1953,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,6
+1953,"St. Andrew Strait","Admiralty Is-SW Paci","Papua New Guinea",270,"Complex volcano",0,
+1953,"Sirung","Lesser Sunda Is","Indonesia",862,"Complex volcano",0,5
+1953,"Oshima","Izu Is-Japan","Japan",758,"Stratovolcano",1,1
+1954,"Stromboli","Italy","Italy",926,"Stratovolcano",,
+1954,"Bam","New Guinea-NE of","Papua New Guinea",685,"Stratovolcano",2,25
+1954,"Hibok-Hibok","Mindanao-Philippines","Philippines",1332,"Stratovolcano",,2
+1955,"Carran-Los Venados","Chile-C","Chile",1114,"Pyroclastic cone",4,2
+1955,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",3,
+1956,"Bezymianny","Kamchatka","Russia",2882,"Stratovolcano",5,
+1957,"Vsevidof","Aleutian Is","United States",2149,"Stratovolcano",2,
+1957,"Merapi","Java","Indonesia",2947,"Stratovolcano",2,6
+1957,"Oshima","Izu Is-Japan","Japan",758,"Stratovolcano",2,1
+1957,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,12
+1958,"Mahawu","Sulawesi-Indonesia","Indonesia",1324,"Stratovolcano",2,1
+1958,"Kuwae","Vanuatu-SW Pacific","Vanuatu",-2,"Caldera",2,
+1960,"Puyehue","Chile-C","Chile",2236,"Stratovolcano",3,
+1961,"Asama","Honshu-Japan","Japan",2560,"Complex volcano",2,1
+1962,"Tokachi","Hokkaido-Japan","Japan",2077,"Stratovolcano",3,5
+1962,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",2,5
+1963,"Irazu","Costa Rica","Costa Rica",3432,"Stratovolcano",3,40
+1963,"Agung","Lesser Sunda Is","Indonesia",3142,"Stratovolcano",4,1028
+1963,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,1
+1963,"Agung","Lesser Sunda Is","Indonesia",3142,"Stratovolcano",3,120
+1963,"Villarrica","Chile-C","Chile",2847,"Stratovolcano",2,
+1963,"Batur","Lesser Sunda Is","Indonesia",1717,"Caldera",2,2
+1963,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",3,7
+1964,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",2,1
+1964,"Villarrica","Chile-C","Chile",2847,"Stratovolcano",2,22
+1964,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",1,114
+1965,"Taal","Luzon-Philippines","Philippines",400,"Stratovolcano",4,355
+1966,"Tinakula","Santa Cruz Is-SW Pac","Solomon Is.",851,"Stratovolcano",3,
+1966,"Kelut","Java","Indonesia",1731,"Stratovolcano",4,215
+1966,"Awu","Sangihe Is-Indonesia","Indonesia",1320,"Stratovolcano",4,39
+1966,"Lengai, Ol Doinyo","Africa-E","Tanzania",2890,"Stratovolcano",4,
+1967,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,3
+1967,"Lengai, Ol Doinyo","Africa-E","Tanzania",2890,"Stratovolcano",3,
+1967,"Semeru","Java","Indonesia",3676,"Stratovolcano",3,3
+1967,"Deception Island","Antarctica","Antarctica",576,"Caldera",3,
+1968,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,372
+1968,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,6
+1968,"Arenal","Costa Rica","Costa Rica",1657,"Stratovolcano",3,80
+1969,"Iya","Lesser Sunda Is","Indonesia",637,"Stratovolcano",3,2
+1969,"Didicas","Luzon-N of","Philippines",244,"Compound volcano",2,
+1970,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",3,
+1971,"Hudson, Cerro","Chile-S","Chile",1905,"Stratovolcano",3,3
+1971,"Tinakula","Santa Cruz Is-SW Pac","Solomon Is.",851,"Stratovolcano",2,
+1971,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",3,10
+1971,"La Palma","Canary Is","Spain",2426,"Stratovolcano",2,
+1971,"Villarrica","Chile-C","Chile",2847,"Stratovolcano",2,15
+1972,"Fournaise, Piton de la","Indian O-W","Reunion",2631,"Shield volcano",2,3
+1972,"Ritter Island","New Guinea-NE of","Papua New Guinea",140,"Stratovolcano",1,
+1973,"Vestmannaeyjar","Iceland-S","Iceland",279,"Submarine volcano",3,1
+1973,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",3,
+1973,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,12
+1973,"Iliwerung","Lesser Sunda Is","Indonesia",1018,"Complex volcano",2,2
+1974,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",3,4
+1974,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",3,3
+1974,"Niigata-Yake-yama","Honshu-Japan","Japan",2400,"Lava dome",2,3
+1974,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",3,5
+1974,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",4,
+1974,"Ritter Island","New Guinea-NE of","Papua New Guinea",140,"Stratovolcano",1,
+1975,"Marapi","Sumatra","Indonesia",2891,"Complex volcano",2,80
+1975,"Arenal","Costa Rica","Costa Rica",1657,"Stratovolcano",3,2
+1975,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",0,
+1976,"Sangay","Ecuador","Ecuador",5230,"Stratovolcano",3,2
+1976,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,119
+1976,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",2,1
+1977,"Nyiragongo","Africa-C","Congo, DRC",3470,"Stratovolcano",1,
+1977,"Karthala","Indian O-W","Comoros",2361,"Shield volcano",0,
+1977,"Krafla","Iceland-NE","Iceland",650,"Caldera",1,
+1977,"Kliuchevskoi","Kamchatka","Russia",4835,"Stratovolcano",3,1
+1978,"Usu","Hokkaido-Japan","Japan",731,"Stratovolcano",3,3
+1978,"Bulusan","Luzon-Philippines","Philippines",1565,"Stratovolcano",2,
+1978,"Santa Maria","Guatemala","Guatemala",3772,"Stratovolcano",3,1
+1979,"Dieng Volc Complex","Java","Indonesia",2565,"Complex volcano",1,149
+1979,"Karkar","New Guinea-NE of","Papua New Guinea",1839,"Stratovolcano",2,2
+1979,"Etna","Italy","Italy",3350,"Stratovolcano",2,9
+1979,"Aso","Kyushu-Japan","Japan",1592,"Caldera",2,3
+1980,"St. Helens","US-Washington","United States",2549,"Stratovolcano",5,57
+1980,"Hekla","Iceland-S","Iceland",1491,"Stratovolcano",3,
+1981,"Etna","Italy","Italy",3350,"Stratovolcano",2,
+1981,"Alaid","Kuril Is","Russia",2339,"Stratovolcano",2,
+1981,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",,200
+1981,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",2,
+1982,"Chichon, El","Mexico","Mexico",1150,"Tuff cone",5,1879
+1982,"Chichon, El","Mexico","Mexico",1150,"Tuff cone",5,33
+1982,"Galunggung","Java","Indonesia",2168,"Stratovolcano",4,68
+1982,"Chichon, El","Mexico","Mexico",1150,"Tuff cone",5,1
+1983,"Kliuchevskoi","Kamchatka","Russia",4835,"Stratovolcano",2,1
+1983,"Colo [Una Una]","Sulawesi-Indonesia","Indonesia",507,"Stratovolcano",4,
+1983,"Iliwerung","Lesser Sunda Is","Indonesia",1018,"Complex volcano",1,
+1983,"Miyake-jima","Izu Is-Japan","Japan",815,"Stratovolcano",3,
+1984,"San Joaquin","Africa-W","Equatorial Guinea",2009,"Shield volcano",,37
+1984,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",3,1
+1985,"Ruiz","Colombia","Colombia",5321,"Stratovolcano",3,23080
+1986,"Stromboli","Italy","Italy",926,"Stratovolcano",2,1
+1986,"Oku Volc Field","Africa-W","Cameroon",3011,"Maar",3,1700
+1986,"Merapi","Java","Indonesia",2947,"Stratovolcano",2,1
+1986,"Oshima","Izu Is-Japan","Japan",758,"Stratovolcano",3,1
+1987,"Pacaya","Guatemala","Guatemala",2552,"Complex volcano",3,
+1987,"Etna","Italy","Italy",3350,"Stratovolcano",2,2
+1987,"Sirung","Lesser Sunda Is","Indonesia",862,"Complex volcano",,
+1988,"Banda Api","Banda Sea","Pacific Ocean",640,"Caldera",3,4
+1988,"Arenal","Costa Rica","Costa Rica",1657,"Stratovolcano",3,1
+1988,"Lonquimay","Chile-C","Chile",2865,"Stratovolcano",3,1
+1990,"Shiveluch","Kamchatka","Russia",3283,"Stratovolcano",3,
+1990,"Kelut","Java","Indonesia",1731,"Stratovolcano",4,32
+1990,"Sabancaya","Peru","Peru",5967,"Stratovolcano",3,
+1990,"Santa Maria","Guatemala","Guatemala",3772,"Stratovolcano",3,4
+1990,"Unzen","Kyushu-Japan","Japan",1500,"Complex volcano",1,43
+1991,"Pinatubo","Luzon-Philippines","Philippines",1486,"Stratovolcano",6,450
+1991,"Karthala","Indian O-W","Comoros",2361,"Shield volcano",2,
+1991,"Hudson, Cerro","Chile-S","Chile",1905,"Stratovolcano",5,
+1991,"Lokon-Empung","Sulawesi-Indonesia","Indonesia",1580,"Stratovolcano",1,1
+1991,"Etna","Italy","Italy",3350,"Stratovolcano",2,
+1992,"Negro, Cerro","Nicaragua","Nicaragua",728,"Cinder cone",3,2
+1992,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",1,6
+1992,"Pinatubo","Luzon-Philippines","Philippines",1486,"Stratovolcano",1,6
+1992,"Spurr","Alaska-SW","United States",3374,"Stratovolcano",3,
+1993,"Galeras","Colombia","Colombia",4276,"Complex volcano",2,9
+1993,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",2,75
+1993,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",0,1
+1993,"Krakatau","Indonesia","Indonesia",813,"Caldera",1,1
+1993,"Unzen","Kyushu-Japan","Japan",1500,"Complex volcano",1,1
+1994,"Yasur","Vanuatu-SW Pacific","Vanuatu",361,"Stratovolcano",3,3
+1994,"Marapi","Sumatra","Indonesia",2891,"Complex volcano",2,1
+1994,"Rabaul","New Britain-SW Pac","Papua New Guinea",688,"Pyroclastic shield",3,4
+1994,"Merapi","Java","Indonesia",2947,"Stratovolcano",3,60
+1995,"Fogo","Cape Verde Is","Cape Verde",2829,"Stratovolcano",2,
+1996,"Karymsky","Kamchatka","Russia",1536,"Stratovolcano",2,
+1996,"Popocatepetl","Mexico","Mexico",5426,"Stratovolcano",3,5
+1996,"Semeru","Java","Indonesia",3676,"Stratovolcano",2,1
+1996,"Grimsvotn","Iceland-NE","Iceland",1725,"Caldera",3,
+1997,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",1,3
+1997,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",3,22
+1997,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",3,2
+1997,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",,
+1998,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,1
+1999,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",3,
+1999,"Fuego","Guatemala","Guatemala",3763,"Stratovolcano",2,
+1999,"Shiveluch","Kamchatka","Russia",3283,"Stratovolcano",4,
+2000,"Miyake-jima","Izu Is-Japan","Japan",815,"Stratovolcano",2,
+2000,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,2
+2001,"Etna","Italy","Italy",3350,"Stratovolcano",3,1
+2001,"Etna","Italy","Italy",3350,"Stratovolcano",2,
+2002,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",3,
+2002,"Nyiragongo","Africa-C","Congo, DRC",3470,"Stratovolcano",1,100
+2002,"Etna","Italy","Italy",3350,"Stratovolcano",3,
+2002,"Stromboli","Italy","Italy",926,"Stratovolcano",,
+2003,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",3,
+2004,"Tengger Caldera","Java","Indonesia",2329,"Stratovolcano",2,2
+2005,"Karthala","Indian O-W","Comoros",2361,"Shield volcano",,
+2006,"Raoul Island","Kermadec Is","New Zealand",516,"Stratovolcano",,1
+2006,"Soufriere Hills","W Indies","Montserrat",915,"Stratovolcano",2,
+2006,"Bulusan","Luzon-Philippines","Philippines",1565,"Stratovolcano",2,1
+2006,"Merapi","Java","Indonesia",2947,"Stratovolcano",1,2
+2006,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",1,1266
+2006,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",3,1
+2006,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",3,5
+2007,"Huila","Colombia","Colombia",5365,"Stratovolcano",,
+2007,"Tair, Jebel at","Red Sea","Yemen",244,"Stratovolcano",,7
+2008,"Chaiten","Chile-S","Chile",962,"Caldera",,1
+2008,"Kasatochi","Aleutian Is","United States",314,"Stratovolcano",3,
+2008,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",3,2
+2008,"Huila","Colombia","Colombia",5365,"Stratovolcano",,10
+2009,"Redoubt","Alaska-SW","United States",3108,"Stratovolcano",,
+2009,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,
+2010,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",3,
+2010,"Eyjafjallajokull","Iceland-S","Iceland",1666,"Stratovolcano",2,2
+2010,"Pacaya","Guatemala","Guatemala",2552,"Complex volcano",1,1
+2010,"Sarigan","Mariana Is-C Pacific","United States",538,"Stratovolcano",,
+2010,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",3,4
+2010,"Sinabung","Sumatra","Indonesia",2460,"Stratovolcano",,2
+2010,"Merapi","Java","Indonesia",2947,"Stratovolcano",,324
+2010,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",3,
+2010,"Tengger Caldera","Java","Indonesia",2329,"Stratovolcano",,
+2011,"Merapi","Java","Indonesia",2947,"Stratovolcano",,1
+2011,"Kirishima","Kyushu-Japan","Japan",1700,"Shield volcano",,
+2011,"Bulusan","Luzon-Philippines","Philippines",1565,"Stratovolcano",2,1
+2011,"Karangetang [Api Siau]","Sangihe Is-Indonesia","Indonesia",1784,"Stratovolcano",,
+2011,"Tungurahua","Ecuador","Ecuador",5023,"Stratovolcano",4,
+2011,"Puyehue","Chile-C","Chile",2236,"Stratovolcano",4,
+2011,"Nabro","Africa-NE","Eritrea",2218,"Stratovolcano",3,7
+2011,"Katla","Iceland-S","Iceland",1512,"Subglacial volcano",,
+2011,"Lokon-Empung","Sulawesi-Indonesia","Indonesia",1580,"Stratovolcano",,1
+2011,"Gamalama","Halmahera-Indonesia","Indonesia",1715,"Stratovolcano",3,4
+2012,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,
+2012,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,
+2012,"Tolbachik","Kamchatka","Russia",3682,"Shield volcano",,
+2013,"Merapi","Java","Indonesia",2947,"Stratovolcano",,1
+2013,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",,
+2013,"Mayon","Luzon-Philippines","Philippines",2462,"Stratovolcano",,5
+2013,"Paluweh","Lesser Sunda Is","Indonesia",875,"Stratovolcano",3,5
+2013,"Ubinas","Peru","Peru",5672,"Stratovolcano",,
+2013,"Sakura-jima","Kyushu-Japan","Japan",1117,"Stratovolcano",,
+2013,"Sinabung","Sumatra","Indonesia",2460,"Stratovolcano",2,
+2014,"Sinabung","Sumatra","Indonesia",2460,"Stratovolcano",,17
+2014,"Kelut","Java","Indonesia",1731,"Stratovolcano",,7
+2014,"On-take","Honshu-Japan","Japan",3063,"Complex volcano",3,55
+2014,"Kilauea","Hawaiian Is","United States",1222,"Shield volcano",,
+2014,"Fogo","Cape Verde Is","Cape Verde",2829,"Stratovolcano",,
