@@ -8,3 +8,4 @@
 *.fdb_latexmk
 *.mypy*
 ltximg
+.ob-jupyter
