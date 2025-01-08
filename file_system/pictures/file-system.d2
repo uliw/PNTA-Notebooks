@@ -1,0 +1,38 @@
+title: File System Overview {
+shape: text
+ near: top-center
+ style: {
+   font-size: 55
+   italic: true
+ }
+}
+/ {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+home {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+usr {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+  boot {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+  bin {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+  uliw {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+  documents {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+  teaching {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+    downloads {icon: https://icons.terrastruct.com/essentials%2F245-folder.svg}
+      firefox {icon: https://icons.terrastruct.com/essentials%2F257-file.svg}
+	"class_images.zip" {icon: https://icons.terrastruct.com/essentials%2F257-file.svg}
+"class_images.zip" {icon: https://icons.terrastruct.com/essentials%2F257-file.svg}
+"assignment1.pdf" {icon: https://icons.terrastruct.com/essentials%2F257-file.svg}
+firefox {icon: https://icons.terrastruct.com/azure%2FCompute%20Service%20Color%2FFunction%20Apps.svg}
+  google-chrome {icon: https://icons.terrastruct.com/azure%2FCompute%20Service%20Color%2FFunction%20Apps.svg}
+python {icon: https://icons.terrastruct.com/azure%2FCompute%20Service%20Color%2FFunction%20Apps.svg}
+/ -> boot
+/ -> usr
+/ -> home
+usr -> bin
+bin -> firefox
+bin -> google-chrome
+bin -> python
+home -> uliw
+uliw -> documents
+documents -> teaching
+teaching -> "assignment1.pdf" 
+uliw -> downloads
+downloads -> "class_images.zip"
+
