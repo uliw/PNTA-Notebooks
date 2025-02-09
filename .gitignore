@@ -9,3 +9,5 @@
 *.mypy*
 ltximg
 .ob-jupyter
+*.upa
+*.upb
