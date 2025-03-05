@@ -1,4 +1,4 @@
-""" Example of a library file.
+"""Example of a library file.
 
 Library files should only contain function or class definitions, and no
 other python code.
@@ -12,13 +12,12 @@ License: GPL
 
 
 def hello_world() -> None:
-    """This function takes no arguments and prints Hello World"""
-
+    """Print Hello World."""
     print("Hello World")
 
 
 def square(n: int | float) -> int | float:
-    """This function takes a number n as argument and returns n*n
+    """Compute the n*n.
 
     Parameters
     ----------
