@@ -17,7 +17,7 @@ def hello_world() -> None:
 
 
 def square(n: int | float) -> int | float:
-    """Compute the n*n.
+    """Compute n**2.
 
     Parameters
     ----------
