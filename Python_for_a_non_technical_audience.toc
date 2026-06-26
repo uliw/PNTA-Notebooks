@@ -1,0 +1,297 @@
+\contentsline {chapter}{\numberline {1}Introduction}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Getting the tools}{14}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Using the Syzygy cloud}{14}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}File System Exercise assignment}{14}{subsection.1.1.2}%
+\contentsline {subsubsection}{\nonumberline Learning Outcomes}{14}{subsubsection*.1}%
+\contentsline {subsubsection}{\nonumberline Instructions}{14}{subsubsection*.2}%
+\contentsline {paragraph}{\nonumberline Files and Names}{14}{paragraph*.3}%
+\contentsline {paragraph}{\nonumberline Directories}{15}{paragraph*.4}%
+\contentsline {subsubsection}{\nonumberline Last but not least}{16}{subsubsection*.5}%
+\contentsline {subsubsection}{\nonumberline Marking Scheme}{17}{subsubsection*.6}%
+\contentsline {chapter}{\numberline {2}Getting to know your Jupyter Notebook}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Interacting with Jupyter 1}{19}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Jupyter Connection Problems}{21}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Recap}{23}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Interacting with Jupyter 2}{23}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Potential Problems}{25}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Formatting Text}{25}{section.2.4}%
+\contentsline {subsubsection}{\nonumberline This is a third-level heading}{27}{subsubsection*.7}%
+\contentsline {section}{\numberline {2.5}Adding Code cells}{28}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Recap}{28}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Notebook Assignment}{28}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Learning Outcomes}{28}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Instructions:}{29}{subsection.2.7.2}%
+\contentsline {subsubsection}{\nonumberline Submission Header Information (6 pts)}{29}{subsubsection*.8}%
+\contentsline {subsubsection}{\nonumberline Various Markdown elements (6 pts)}{30}{subsubsection*.9}%
+\contentsline {subsection}{\numberline {2.7.3}Marking Scheme (15 pts)}{30}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Submission Instructions}{30}{subsection.2.7.4}%
+\contentsline {chapter}{\numberline {3}Basic elements of a program}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}How to store a number in a computer}{33}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}The binary system}{34}{subsection.3.1.1}%
+\contentsline {subsubsection}{\nonumberline Summary}{36}{subsubsection*.10}%
+\contentsline {section}{\numberline {3.2}Variables which store a single value}{36}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Operators}{38}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Variable names}{38}{subsection.3.2.2}%
+\contentsline {subsubsection}{\nonumberline Beware of built in names}{38}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {3.2.3}Variables Assignment}{39}{subsection.3.2.3}%
+\contentsline {subsubsection}{\nonumberline Learning Outcomes:}{39}{subsubsection*.12}%
+\contentsline {subsubsection}{\nonumberline Storing numbers (4 points)}{40}{subsubsection*.13}%
+\contentsline {subsubsection}{\nonumberline Assigning a value to a variable}{40}{subsubsection*.14}%
+\contentsline {paragraph}{\nonumberline Code analysis (4 points)}{40}{paragraph*.15}%
+\contentsline {paragraph}{\nonumberline Code experiment (4 points)}{40}{paragraph*.16}%
+\contentsline {subsubsection}{\nonumberline Error Messages}{41}{subsubsection*.17}%
+\contentsline {paragraph}{\nonumberline Experiment (2 points)}{41}{paragraph*.18}%
+\contentsline {paragraph}{\nonumberline Error codes (2 points)}{41}{paragraph*.19}%
+\contentsline {subsubsection}{\nonumberline Operator Precedence (6 points)}{42}{subsubsection*.20}%
+\contentsline {subsubsection}{\nonumberline Marking scheme:}{42}{subsubsection*.21}%
+\contentsline {subsubsection}{\nonumberline Submission instructions}{42}{subsubsection*.22}%
+\contentsline {section}{\numberline {3.3}Compound Variables}{44}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Lists}{44}{subsection.3.3.1}%
+\contentsline {subsubsection}{\nonumberline Accessing list elements}{45}{subsubsection*.23}%
+\contentsline {paragraph}{\nonumberline Single list elements}{45}{paragraph*.24}%
+\contentsline {paragraph}{\nonumberline Accessing a range of elements (slicing)}{45}{paragraph*.25}%
+\contentsline {subsubsection}{\nonumberline Accessing the last element(s) in a list}{46}{subsubsection*.26}%
+\contentsline {paragraph}{\nonumberline Other list slices}{46}{paragraph*.27}%
+\contentsline {paragraph}{\nonumberline Take me home:}{47}{paragraph*.28}%
+\contentsline {subsubsection}{\nonumberline List slicing Assignment}{48}{subsubsection*.29}%
+\contentsline {paragraph}{\nonumberline Learning Outcomes}{48}{paragraph*.30}%
+\contentsline {paragraph}{\nonumberline Here be dragons!}{48}{paragraph*.31}%
+\contentsline {paragraph}{\nonumberline Questions 16 points}{48}{paragraph*.32}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{50}{paragraph*.33}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{50}{paragraph*.34}%
+\contentsline {subsection}{\numberline {3.3.2}Working with Lists}{51}{subsection.3.3.2}%
+\contentsline {subsubsection}{\nonumberline A quick detour into the world of object-oriented programming (OOP)}{52}{subsubsection*.35}%
+\contentsline {paragraph}{\nonumberline How to find out what those methods do}{54}{paragraph*.37}%
+\contentsline {paragraph}{\nonumberline Iterables}{55}{paragraph*.38}%
+\contentsline {paragraph}{\nonumberline Take me home}{56}{paragraph*.39}%
+\contentsline {subsubsection}{\nonumberline Referencing objects}{56}{subsubsection*.40}%
+\contentsline {paragraph}{\nonumberline Take me home 2}{57}{paragraph*.41}%
+\contentsline {subsubsection}{\nonumberline Manipulating lists}{58}{subsubsection*.42}%
+\contentsline {subsubsection}{\nonumberline Take me home}{60}{subsubsection*.43}%
+\contentsline {subsubsection}{\nonumberline Working with lists Assignment}{60}{subsubsection*.44}%
+\contentsline {paragraph}{\nonumberline Learning outcomes}{60}{paragraph*.45}%
+\contentsline {paragraph}{\nonumberline Questions 38 points}{60}{paragraph*.46}%
+\contentsline {paragraph}{\nonumberline Advanced questions (9 points)}{62}{paragraph*.47}%
+\contentsline {paragraph}{\nonumberline A FIFO buffer (7 points)}{62}{paragraph*.48}%
+\contentsline {paragraph}{\nonumberline 2 Joining lists (4 points)}{62}{paragraph*.49}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{63}{paragraph*.50}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{63}{paragraph*.51}%
+\contentsline {subsection}{\numberline {3.3.3}Strings}{64}{subsection.3.3.3}%
+\contentsline {paragraph}{\nonumberline The ASCII table}{65}{paragraph*.52}%
+\contentsline {paragraph}{\nonumberline Strings}{66}{paragraph*.53}%
+\contentsline {subsubsection}{\nonumberline Other Data Types}{66}{subsubsection*.54}%
+\contentsline {paragraph}{\nonumberline Dictionaries}{66}{paragraph*.55}%
+\contentsline {paragraph}{\nonumberline Vectors versus Lists}{68}{paragraph*.59}%
+\contentsline {paragraph}{\nonumberline Tuples}{68}{paragraph*.60}%
+\contentsline {paragraph}{\nonumberline Sets}{69}{paragraph*.61}%
+\contentsline {paragraph}{\nonumberline Random bits and pieces}{69}{paragraph*.62}%
+\contentsline {subsubsection}{\nonumberline Strings Assignment}{70}{subsubsection*.63}%
+\contentsline {paragraph}{\nonumberline Advanced Questions}{72}{paragraph*.64}%
+\contentsline {paragraph}{\nonumberline Marking}{73}{paragraph*.65}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{73}{paragraph*.66}%
+\contentsline {subsection}{\numberline {3.3.4}Other Datatypes}{74}{subsection.3.3.4}%
+\contentsline {subsubsection}{\nonumberline Vectors versus Lists}{74}{subsubsection*.67}%
+\contentsline {subsubsection}{\nonumberline Tuples}{74}{subsubsection*.68}%
+\contentsline {subsubsection}{\nonumberline Sets}{75}{subsubsection*.69}%
+\contentsline {subsubsection}{\nonumberline Dictionaries}{76}{subsubsection*.70}%
+\contentsline {subsubsection}{\nonumberline Random bits an pieces}{77}{subsubsection*.71}%
+\contentsline {section}{\numberline {3.4}The print statement}{77}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Recap}{77}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Using print()}{79}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}F-strings}{79}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Escape sequences}{80}{subsection.3.4.4}%
+\contentsline {subsubsection}{\nonumberline Escaping control characters}{81}{subsubsection*.72}%
+\contentsline {subsection}{\numberline {3.4.5}Multi-line f-strings}{81}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Format modifiers}{82}{subsection.3.4.6}%
+\contentsline {subsubsection}{\nonumberline Integer Modifiers}{83}{subsubsection*.73}%
+\contentsline {subsubsection}{\nonumberline Floating point modifiers}{83}{subsubsection*.74}%
+\contentsline {subsection}{\numberline {3.4.7}The print statement Assignment}{84}{subsection.3.4.7}%
+\contentsline {subsubsection}{\nonumberline Learning Outcomes}{84}{subsubsection*.75}%
+\contentsline {subsubsection}{\nonumberline Tasks}{84}{subsubsection*.76}%
+\contentsline {subsubsection}{\nonumberline Advanced Question 2 points}{86}{subsubsection*.77}%
+\contentsline {subsubsection}{\nonumberline Submission Instructions}{87}{subsubsection*.78}%
+\contentsline {section}{\numberline {3.5}Comparisons and Logic Operators}{88}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Comparison operators}{88}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Logic Operators}{89}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Structuring Code}{92}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}If statements}{93}{subsection.3.6.1}%
+\contentsline {subsubsection}{\nonumberline Multi-way branching}{93}{subsubsection*.79}%
+\contentsline {subsubsection}{\nonumberline Take a pass}{94}{subsubsection*.80}%
+\contentsline {subsubsection}{\nonumberline Nested blocks}{95}{subsubsection*.81}%
+\contentsline {subsubsection}{\nonumberline Pitfalls}{95}{subsubsection*.82}%
+\contentsline {subsubsection}{\nonumberline Ternary Statements}{95}{subsubsection*.83}%
+\contentsline {subsection}{\numberline {3.6.2}Loop statements}{96}{subsection.3.6.2}%
+\contentsline {subsubsection}{\nonumberline The for-loop}{97}{subsubsection*.84}%
+\contentsline {subsubsection}{\nonumberline Enumerating loops}{98}{subsubsection*.85}%
+\contentsline {paragraph}{\nonumberline Dictionaries}{98}{paragraph*.86}%
+\contentsline {subsubsection}{\nonumberline While-loops}{99}{subsubsection*.87}%
+\contentsline {paragraph}{\nonumberline Advanced loop features}{100}{paragraph*.88}%
+\contentsline {subsubsection}{\nonumberline Using a loop to modify a list}{101}{subsubsection*.89}%
+\contentsline {subsubsection}{\nonumberline If and loops Assignment}{102}{subsubsection*.90}%
+\contentsline {paragraph}{\nonumberline If statements (10 points)}{102}{paragraph*.91}%
+\contentsline {paragraph}{\nonumberline Loops 26 points}{103}{paragraph*.92}%
+\contentsline {subsection}{\numberline {3.6.3}Loops 2}{104}{subsection.3.6.3}%
+\contentsline {subsubsection}{\nonumberline Some pointers for the Loops 2 Assignment.}{104}{subsubsection*.93}%
+\contentsline {paragraph}{\nonumberline Creating a markdown table}{104}{paragraph*.94}%
+\contentsline {subsubsection}{\nonumberline Stop Reading Here!}{105}{subsubsection*.95}%
+\contentsline {paragraph}{\nonumberline Looping over a dictionary}{105}{paragraph*.96}%
+\contentsline {paragraph}{\nonumberline Dictionary to Table}{106}{paragraph*.97}%
+\contentsline {subsubsection}{\nonumberline Loop2 Assignment}{106}{subsubsection*.98}%
+\contentsline {paragraph}{\nonumberline Learning outcomes}{107}{paragraph*.99}%
+\contentsline {paragraph}{\nonumberline Question 1 (8 points)}{107}{paragraph*.100}%
+\contentsline {paragraph}{\nonumberline Question 2 (4 points)}{107}{paragraph*.101}%
+\contentsline {paragraph}{\nonumberline Advanced Question 3 (4 points)}{108}{paragraph*.102}%
+\contentsline {paragraph}{\nonumberline Marking scheme:}{109}{paragraph*.103}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{109}{paragraph*.104}%
+\contentsline {subsection}{\numberline {3.6.4}Coding as a Creative Process}{110}{subsection.3.6.4}%
+\contentsline {subsubsection}{\nonumberline Coding as a Creative Process}{110}{subsubsection*.105}%
+\contentsline {paragraph}{\nonumberline General Problem-Solving Strategies}{111}{paragraph*.106}%
+\contentsline {paragraph}{\nonumberline Check this out as well}{112}{paragraph*.107}%
+\contentsline {subsubsection}{\nonumberline Puzzles Assignment}{112}{subsubsection*.108}%
+\contentsline {paragraph}{\nonumberline Tasks}{113}{paragraph*.109}%
+\contentsline {section}{\numberline {3.7}Functions}{116}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Functions 1}{117}{subsection.3.7.1}%
+\contentsline {subsubsection}{\nonumberline Some Examples}{117}{subsubsection*.110}%
+\contentsline {paragraph}{\nonumberline A note on docstrings}{118}{paragraph*.111}%
+\contentsline {subsubsection}{\nonumberline What happens in a function, stays in a function}{118}{subsubsection*.112}%
+\contentsline {subsubsection}{\nonumberline What happens in the outside world, stays in the outside world}{119}{subsubsection*.113}%
+\contentsline {subsubsection}{\nonumberline How to pass data into a function}{119}{subsubsection*.114}%
+\contentsline {subsubsection}{\nonumberline How to pass data out of a function}{120}{subsubsection*.115}%
+\contentsline {subsubsection}{\nonumberline Pitfalls}{122}{subsubsection*.116}%
+\contentsline {subsubsection}{\nonumberline Summary}{122}{subsubsection*.117}%
+\contentsline {subsubsection}{\nonumberline Functions Assignment}{123}{subsubsection*.118}%
+\contentsline {paragraph}{\nonumberline Learning outcomes}{123}{paragraph*.119}%
+\contentsline {paragraph}{\nonumberline Instructions}{123}{paragraph*.120}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{126}{paragraph*.122}%
+\contentsline {subsection}{\numberline {3.7.2}Functions 2}{127}{subsection.3.7.2}%
+\contentsline {subsubsection}{\nonumberline Better docstrings}{128}{subsubsection*.123}%
+\contentsline {subsubsection}{\nonumberline Type hints}{129}{subsubsection*.124}%
+\contentsline {subsubsection}{\nonumberline Useful type hints}{130}{subsubsection*.125}%
+\contentsline {subsubsection}{\nonumberline The curious case of the Any type}{130}{subsubsection*.126}%
+\contentsline {subsubsection}{\nonumberline Custom type hints}{131}{subsubsection*.127}%
+\contentsline {subsubsection}{\nonumberline Functions Assignment}{131}{subsubsection*.128}%
+\contentsline {paragraph}{\nonumberline Tasks}{132}{paragraph*.129}%
+\contentsline {chapter}{\numberline {4}Coding Projects}{137}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Binary to decimal conversion}{137}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Binary to decimal conversion Assignment}{137}{subsection.4.1.1}%
+\contentsline {paragraph}{\nonumberline Learning outcomes}{137}{paragraph*.130}%
+\contentsline {subsubsection}{\nonumberline Instructions}{137}{subsubsection*.131}%
+\contentsline {paragraph}{\nonumberline Test cases}{138}{paragraph*.132}%
+\contentsline {paragraph}{\nonumberline Special submission instructions}{138}{paragraph*.133}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{139}{paragraph*.134}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{140}{paragraph*.135}%
+\contentsline {section}{\numberline {4.2}Decimal to binary conversion}{141}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Decimal to binary conversion Assignment}{141}{subsection.4.2.1}%
+\contentsline {subsubsection}{\nonumberline Learning outcomes}{141}{subsubsection*.136}%
+\contentsline {subsubsection}{\nonumberline Instructions}{141}{subsubsection*.137}%
+\contentsline {subsubsection}{\nonumberline Some pointers}{142}{subsubsection*.138}%
+\contentsline {subsubsection}{\nonumberline Notes}{143}{subsubsection*.139}%
+\contentsline {subsubsection}{\nonumberline Code template}{144}{subsubsection*.140}%
+\contentsline {subsubsection}{\nonumberline Marking Scheme}{144}{subsubsection*.141}%
+\contentsline {section}{\numberline {4.3}The bubble sort algorithm}{146}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Bubble sort algorithm assignment}{146}{subsection.4.3.1}%
+\contentsline {subsubsection}{\nonumberline How do I solve this?}{147}{subsubsection*.142}%
+\contentsline {subsubsection}{\nonumberline How do I program this?}{148}{subsubsection*.143}%
+\contentsline {paragraph}{\nonumberline What are the program elements I need?}{148}{paragraph*.144}%
+\contentsline {paragraph}{\nonumberline How do I structure my code?}{148}{paragraph*.145}%
+\contentsline {chapter}{\numberline {5}Working with libraries}{153}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Using a library in your code}{154}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Pandas}{155}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Using pandas to read data from an Excel file}{155}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Working with the pandas DataFrame object}{155}{subsection.5.2.2}%
+\contentsline {subsubsection}{\nonumberline Selecting specific columns (and/or rows) by column header}{156}{subsubsection*.146}%
+\contentsline {subsubsection}{\nonumberline Selecting columns and rows by row/column number}{156}{subsubsection*.147}%
+\contentsline {subsubsection}{\nonumberline Selecting rows/columns by label}{157}{subsubsection*.148}%
+\contentsline {paragraph}{\nonumberline Include only specific rows}{157}{paragraph*.149}%
+\contentsline {subsubsection}{\nonumberline Take me home}{158}{subsubsection*.150}%
+\contentsline {subsubsection}{\nonumberline Getting statistical coefficients}{158}{subsubsection*.151}%
+\contentsline {subsubsection}{\nonumberline What else can you do?}{158}{subsubsection*.152}%
+\contentsline {subsubsection}{\nonumberline Accessing Data Assignment}{158}{subsubsection*.153}%
+\contentsline {paragraph}{\nonumberline Tasks}{159}{paragraph*.154}%
+\contentsline {paragraph}{\nonumberline Joining data frames}{160}{paragraph*.155}%
+\contentsline {paragraph}{\nonumberline Creating data-frames}{160}{paragraph*.156}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{161}{paragraph*.157}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{161}{paragraph*.158}%
+\contentsline {subsection}{\numberline {5.2.3}Cleaning Data}{162}{subsection.5.2.3}%
+\contentsline {paragraph}{\nonumberline Always check your files!}{162}{paragraph*.159}%
+\contentsline {paragraph}{\nonumberline Dropping Rows with Missing Values (\texttt {NaN})}{163}{paragraph*.160}%
+\contentsline {paragraph}{\nonumberline Sorting}{163}{paragraph*.161}%
+\contentsline {paragraph}{\nonumberline Grouping and subtotals}{164}{paragraph*.162}%
+\contentsline {paragraph}{\nonumberline Creating a data pipeline}{164}{paragraph*.163}%
+\contentsline {paragraph}{\nonumberline Pandas and Date-Time Data}{165}{paragraph*.164}%
+\contentsline {paragraph}{\nonumberline Categorizing Date time data}{166}{paragraph*.165}%
+\contentsline {subsubsection}{\nonumberline Some useful tips when working with excel sheets}{167}{subsubsection*.166}%
+\contentsline {paragraph}{\nonumberline Cleaning up your excel sheet manually}{168}{paragraph*.167}%
+\contentsline {paragraph}{\nonumberline Be specific of what you consider to be missing data}{169}{paragraph*.168}%
+\contentsline {paragraph}{\nonumberline Normalize column names}{169}{paragraph*.169}%
+\contentsline {paragraph}{\nonumberline Test if your data was recognized in the correct format}{169}{paragraph*.170}%
+\contentsline {paragraph}{\nonumberline Working with large datasets}{170}{paragraph*.171}%
+\contentsline {subsubsection}{\nonumberline Cleaning Data Assignment}{170}{subsubsection*.172}%
+\contentsline {paragraph}{\nonumberline 1. Dropping empty cells (2 points)}{170}{paragraph*.173}%
+\contentsline {paragraph}{\nonumberline 2. [@2] Sorting (2 points)}{170}{paragraph*.174}%
+\contentsline {paragraph}{\nonumberline 3. [@3] Grouping and subtotals (6 points)}{170}{paragraph*.175}%
+\contentsline {paragraph}{\nonumberline 4. [@4] Pandas and Date-Time Data (4 points)}{171}{paragraph*.176}%
+\contentsline {paragraph}{\nonumberline 5. [@5] Advanced Problem set: Categorizing Date time data (6 points)}{171}{paragraph*.177}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{171}{paragraph*.178}%
+\contentsline {section}{\numberline {5.3}Matplotlib - Plotting Data}{173}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}The procedural interface}{173}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}The object-oriented interface}{174}{subsection.5.3.2}%
+\contentsline {subsubsection}{\nonumberline Placing more than one graph into a figure}{175}{subsubsection*.179}%
+\contentsline {subsection}{\numberline {5.3.3}Controlling figure size}{176}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Labels, title, and math symbols}{177}{subsection.5.3.4}%
+\contentsline {subsubsection}{\nonumberline Math symbols}{177}{subsubsection*.180}%
+\contentsline {subsection}{\numberline {5.3.5}Legends, arbitrary text, and visual clutter}{178}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.3.6}Adding a second data set with the same y-axis}{179}{subsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.3.7}Data with a shared x-axis, but an independent y-axis}{180}{subsection.5.3.7}%
+\contentsline {subsection}{\numberline {5.3.8}Multiple Legends}{182}{subsection.5.3.8}%
+\contentsline {subsubsection}{\nonumberline Multiple data sets in the same axes object}{182}{subsubsection*.181}%
+\contentsline {subsubsection}{\nonumberline Multiple data sets with twinx() or twiny()}{182}{subsubsection*.182}%
+\contentsline {subsection}{\numberline {5.3.9}Visual candy}{182}{subsection.5.3.9}%
+\contentsline {subsection}{\numberline {5.3.10}Adding error bars}{183}{subsection.5.3.10}%
+\contentsline {subsection}{\numberline {5.3.11}Recap}{184}{subsection.5.3.11}%
+\contentsline {subsection}{\numberline {5.3.12}References}{185}{subsection.5.3.12}%
+\contentsline {subsubsection}{\nonumberline Matplotlib Assignment}{185}{subsubsection*.183}%
+\contentsline {paragraph}{\nonumberline Assignment}{185}{paragraph*.184}%
+\contentsline {section}{\numberline {5.4}Numpy}{187}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Introduction}{187}{subsection.5.4.1}%
+\contentsline {subsubsection}{\nonumberline Vectors and such}{188}{subsubsection*.185}%
+\contentsline {paragraph}{\nonumberline Creating an array with a specified datatype}{189}{paragraph*.186}%
+\contentsline {paragraph}{\nonumberline Manipulating array structure}{189}{paragraph*.187}%
+\contentsline {paragraph}{\nonumberline Accessing array elements}{190}{paragraph*.188}%
+\contentsline {paragraph}{\nonumberline NumPy and type hints}{190}{paragraph*.189}%
+\contentsline {paragraph}{\nonumberline Vector operations}{190}{paragraph*.190}%
+\contentsline {paragraph}{\nonumberline Solving a system of linear equations}{191}{paragraph*.191}%
+\contentsline {paragraph}{\nonumberline Plotting vectors as arrows}{192}{paragraph*.192}%
+\contentsline {paragraph}{\nonumberline Rotating a vector with a translation matrix}{192}{paragraph*.193}%
+\contentsline {subsubsection}{\nonumberline Linear Interpolation}{194}{subsubsection*.194}%
+\contentsline {paragraph}{\nonumberline A practical example}{195}{paragraph*.195}%
+\contentsline {paragraph}{\nonumberline Explanation of the Code}{196}{paragraph*.196}%
+\contentsline {paragraph}{\nonumberline Sample Outcome}{196}{paragraph*.197}%
+\contentsline {subsubsection}{\nonumberline Numpy Assignment}{196}{subsubsection*.198}%
+\contentsline {paragraph}{\nonumberline Vector math (2 points)}{196}{paragraph*.199}%
+\contentsline {paragraph}{\nonumberline Calculating the root mean squared error (2 points)}{197}{paragraph*.200}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{200}{paragraph*.201}%
+\contentsline {section}{\numberline {5.5}Linear Regression}{201}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Causation versus Correlation}{201}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Understanding the results of a linear regression analysis}{203}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Testing the data}{204}{subsection.5.5.3}%
+\contentsline {subsubsection}{\nonumberline Histograms}{204}{subsubsection*.202}%
+\contentsline {subsection}{\numberline {5.5.4}The statsmodels library}{205}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}Testing the validity of your analysis}{208}{subsection.5.5.5}%
+\contentsline {subsubsection}{\nonumberline QQplots}{208}{subsubsection*.203}%
+\contentsline {subsubsection}{\nonumberline The Shapiro-Wilk Test}{209}{subsubsection*.204}%
+\contentsline {subsection}{\numberline {5.5.6}Adding the regression line and confidence intervals}{210}{subsection.5.5.6}%
+\contentsline {subsubsection}{\nonumberline Accessing the confidence interval data}{210}{subsubsection*.205}%
+\contentsline {subsubsection}{\nonumberline Plotting the confidence interval data}{211}{subsubsection*.206}%
+\contentsline {subsection}{\numberline {5.5.7}Creating the Stork Figure}{211}{subsection.5.5.7}%
+\contentsline {subsection}{\numberline {5.5.8}References}{213}{subsection.5.5.8}%
+\contentsline {subsubsection}{\nonumberline Linear Regression Assignment}{213}{subsubsection*.207}%
+\contentsline {paragraph}{\nonumberline Learning outcomes:}{213}{paragraph*.208}%
+\contentsline {paragraph}{\nonumberline Background}{213}{paragraph*.209}%
+\contentsline {paragraph}{\nonumberline Analyzing the predictive power of the Mg/Ca proxy (19 pts)}{213}{paragraph*.210}%
+\contentsline {paragraph}{\nonumberline Advanced question: Writing a universal script to perform regression analysis (13 pts)}{214}{paragraph*.211}%
+\contentsline {paragraph}{\nonumberline Marking Scheme}{215}{paragraph*.212}%
+\contentsline {paragraph}{\nonumberline Submission Instructions}{215}{paragraph*.213}%
+\contentsline {paragraph}{\nonumberline References}{216}{paragraph*.214}%
+\contentsline {chapter}{\numberline {6}Index}{217}{chapter.6}%
+\contentsline {chapter}{\nonumberline Index}{219}{chapter*.215}%

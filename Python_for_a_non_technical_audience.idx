@@ -1,0 +1,306 @@
+\indexentry{Juypter!server|hyperpage}{19}
+\indexentry{Juypter!notebook|hyperpage}{19}
+\indexentry{notebook!server!access|hyperpage}{23}
+\indexentry{notebook!folder!create|hyperpage}{23}
+\indexentry{Markdown Syntax|hyperpage}{27}
+\indexentry{notebook!creation|hyperpage}{28}
+\indexentry{notebook!saving|hyperpage}{28}
+\indexentry{notebook!download|hyperpage}{28}
+\indexentry{notebook!create text cell|hyperpage}{28}
+\indexentry{notebook!text cell!edit|hyperpage}{28}
+\indexentry{notebook!text cell!format|hyperpage}{28}
+\indexentry{notebook!code cell!create|hyperpage}{28}
+\indexentry{notebook!code cell!add|hyperpage}{28}
+\indexentry{decimal system|hyperpage}{33}
+\indexentry{transistor|hyperpage}{33}
+\indexentry{binary system|hyperpage}{34}
+\indexentry{memory cell|hyperpage}{35}
+\indexentry{bit|hyperpage}{35}
+\indexentry{byte|hyperpage}{35}
+\indexentry{numbers!integer|hyperpage}{35}
+\indexentry{numbers!negative|hyperpage}{35}
+\indexentry{integer|hyperpage}{35}
+\indexentry{signed integer|hyperpage}{35}
+\indexentry{integer!signed|hyperpage}{35}
+\indexentry{numbers!integer!signed|hyperpage}{35}
+\indexentry{numbers!floating point|hyperpage}{35}
+\indexentry{floating point numbers|hyperpage}{35}
+\indexentry{python!comments|hyperpage}{36}
+\indexentry{casting|hyperpage}{36}
+\indexentry{variable|hyperpage}{36}
+\indexentry{symbolic math|hyperpage}{37}
+\indexentry{operators|hyperpage}{38}
+\indexentry{memory location!assign|hyperpage}{38}
+\indexentry{memory location!retrieve|hyperpage}{38}
+\indexentry{variable!naming conventions|hyperpage}{38}
+\indexentry{list!variable type|hyperpage}{44}
+\indexentry{data types|hyperpage}{44}
+\indexentry{variable!type!list!create|hyperpage}{44}
+\indexentry{list!create|hyperpage}{44}
+\indexentry{create!list|hyperpage}{44}
+\indexentry{print!function|hyperpage}{45}
+\indexentry{accessing!list!elements|hyperpage}{45}
+\indexentry{list!elements!access|hyperpage}{45}
+\indexentry{slicing|hyperpage}{45}
+\indexentry{list!slicing|hyperpage}{45}
+\indexentry{variable!type!list!slicing|hyperpage}{45}
+\indexentry{object!oriented programming|hyperpage}{52}
+\indexentry{object!methods|hyperpage}{53}
+\indexentry{python!functions!dir()|hyperpage}{53}
+\indexentry{functions!dir()|hyperpage}{53}
+\indexentry{object!methods!user visible|hyperpage}{53}
+\indexentry{user visible object methods|hyperpage}{53}
+\indexentry{dunders|hyperpage}{53}
+\indexentry{list!reverse|hyperpage}{54}
+\indexentry{list!sort|hyperpage}{54}
+\indexentry{help()|hyperpage}{54}
+\indexentry{getting help|hyperpage}{54}
+\indexentry{functions!help()|hyperpage}{54}
+\indexentry{python!functions!help()|hyperpage}{54}
+\indexentry{object!reference|hyperpage}{56}
+\indexentry{object!copy|hyperpage}{56}
+\indexentry{object!copy!shallow|hyperpage}{57}
+\indexentry{object!copy!deep|hyperpage}{57}
+\indexentry{manipulating!lists|hyperpage}{58}
+\indexentry{list!manipulating|hyperpage}{58}
+\indexentry{list!manipulating!append|hyperpage}{58}
+\indexentry{list!manipulating!insert|hyperpage}{58}
+\indexentry{list!manipulating!remove element|hyperpage}{58}
+\indexentry{list!manipulating!reverse|hyperpage}{59}
+\indexentry{list!manipulating!delete|hyperpage}{59}
+\indexentry{strings|hyperpage}{64}
+\indexentry{characters!storing|hyperpage}{64}
+\indexentry{variable!type!strings|hyperpage}{64}
+\indexentry{letters|hyperpage}{64}
+\indexentry{symbols|hyperpage}{64}
+\indexentry{functions!char()|hyperpage}{64}
+\indexentry{ASCII|hyperpage}{64}
+\indexentry{ASCII!to number|hyperpage}{64}
+\indexentry{functions!ord()|hyperpage}{65}
+\indexentry{ASCII!to number|hyperpage}{65}
+\indexentry{ASCII!table|hyperpage}{65}
+\indexentry{unicode|hyperpage}{65}
+\indexentry{strings|hyperpage}{66}
+\indexentry{variable!type!string|hyperpage}{66}
+\indexentry{dictionary|hyperpage}{66}
+\indexentry{dictionary!key|hyperpage}{66}
+\indexentry{key!dictionary|hyperpage}{66}
+\indexentry{variable!type!dictionary|hyperpage}{66}
+\indexentry{vector|hyperpage}{68}
+\indexentry{variable!type!vector|hyperpage}{68}
+\indexentry{Matlab|hyperpage}{68}
+\indexentry{tuple|hyperpage}{68}
+\indexentry{variable!type!tuple|hyperpage}{68}
+\indexentry{sets|hyperpage}{69}
+\indexentry{variable!type!sets|hyperpage}{69}
+\indexentry{vector|hyperpage}{74}
+\indexentry{variable!type!vector|hyperpage}{74}
+\indexentry{Matlab|hyperpage}{74}
+\indexentry{tuple|hyperpage}{74}
+\indexentry{variable!type!tuples|hyperpage}{74}
+\indexentry{sets|hyperpage}{75}
+\indexentry{variable!type!sets|hyperpage}{75}
+\indexentry{dictionary|hyperpage}{76}
+\indexentry{dictionary!key|hyperpage}{76}
+\indexentry{key!dictionary|hyperpage}{76}
+\indexentry{variable!type!dictionary|hyperpage}{76}
+\indexentry{functions!print()|hyperpage}{79}
+\indexentry{print!function|hyperpage}{79}
+\indexentry{functions|hyperpage}{79}
+\indexentry{python!functions!argument|hyperpage}{79}
+\indexentry{output!formatted|hyperpage}{79}
+\indexentry{formatted output|hyperpage}{79}
+\indexentry{strings!f-strings|hyperpage}{79}
+\indexentry{python!functions!print()!f-strings|hyperpage}{79}
+\indexentry{formatted output!f-strings|hyperpage}{79}
+\indexentry{print()!f-strings|hyperpage}{79}
+\indexentry{Escape Sequences|hyperpage}{80}
+\indexentry{python!functions!print()!Escape Sequences|hyperpage}{80}
+\indexentry{formatted output!Escape Sequences|hyperpage}{80}
+\indexentry{print()!Escape Sequences|hyperpage}{80}
+\indexentry{missing pdf output|hyperpage}{80}
+\indexentry{f-strings!multiline|hyperpage}{81}
+\indexentry{python!functions!print()!f-strings!multiline|hyperpage}{81}
+\indexentry{formatted output!f-strings!multiline|hyperpage}{81}
+\indexentry{print()!f-strings!multiline|hyperpage}{81}
+\indexentry{multiline f-strings|hyperpage}{81}
+\indexentry{strings!f-strings!multiline|hyperpage}{81}
+\indexentry{strings!multiline|hyperpage}{81}
+\indexentry{format modifiers!print|hyperpage}{82}
+\indexentry{print!format modifiers|hyperpage}{82}
+\indexentry{operators!comparison|hyperpage}{88}
+\indexentry{comparison operators|hyperpage}{88}
+\indexentry{functions!isinstance()|hyperpage}{89}
+\indexentry{isintance()!function|hyperpage}{89}
+\indexentry{operators!logic|hyperpage}{89}
+\indexentry{logic operators|hyperpage}{89}
+\indexentry{program flow|hyperpage}{93}
+\indexentry{block statements|hyperpage}{93}
+\indexentry{boolean value|hyperpage}{93}
+\indexentry{truth value|hyperpage}{93}
+\indexentry{if clause|hyperpage}{93}
+\indexentry{if clause!else|hyperpage}{93}
+\indexentry{block statements!if|hyperpage}{93}
+\indexentry{if clause!elif|hyperpage}{93}
+\indexentry{if clause!multiway branching|hyperpage}{93}
+\indexentry{block statements!if!multiway branching|hyperpage}{93}
+\indexentry{block statements!nested if|hyperpage}{95}
+\indexentry{nested blocks|hyperpage}{95}
+\indexentry{block statements!if clause!pitfalls|hyperpage}{95}
+\indexentry{block statements!pitfalls!if clause!|hyperpage}{95}
+\indexentry{block statements!ternary|hyperpage}{95}
+\indexentry{ternary statements|hyperpage}{95}
+\indexentry{block statements!loop|hyperpage}{96}
+\indexentry{loop statement|hyperpage}{96}
+\indexentry{block statements!for loop|hyperpage}{97}
+\indexentry{for loop|hyperpage}{97}
+\indexentry{for loop!range|hyperpage}{97}
+\indexentry{block statements!while loop|hyperpage}{99}
+\indexentry{while loop|hyperpage}{99}
+\indexentry{block statements!loop!continue|hyperpage}{100}
+\indexentry{loop statement!continue|hyperpage}{100}
+\indexentry{continue!block statements!loop|hyperpage}{100}
+\indexentry{block statements!loop!break|hyperpage}{100}
+\indexentry{loop statement!break|hyperpage}{100}
+\indexentry{continue!block statements!break|hyperpage}{100}
+\indexentry{block statements!loop!else|hyperpage}{100}
+\indexentry{loop statement!else|hyperpage}{100}
+\indexentry{continue!block statements!break|hyperpage}{100}
+\indexentry{list comprehensions|hyperpage}{100}
+\indexentry{for loop!list comprehension|hyperpage}{100}
+\indexentry{block statements!list comprehension|hyperpage}{100}
+\indexentry{Problem Solving Strategies|hyperpage}{111}
+\indexentry{functions|hyperpage}{117}
+\indexentry{variable!scope|hyperpage}{119}
+\indexentry{function!signature|hyperpage}{119}
+\indexentry{return statement|hyperpage}{120}
+\indexentry{functions!return statement|hyperpage}{120}
+\indexentry{functions!variable scope|hyperpage}{123}
+\indexentry{functions!argument|hyperpage}{123}
+\indexentry{functions!return value|hyperpage}{123}
+\indexentry{functions!doc-string|hyperpage}{123}
+\indexentry{list!copy|hyperpage}{150}
+\indexentry{list!function|hyperpage}{150}
+\indexentry{functions!list()|hyperpage}{150}
+\indexentry{library|hyperpage}{153}
+\indexentry{python!library|hyperpage}{153}
+\indexentry{Integrated Development Environment!IDE|hyperpage}{153}
+\indexentry{IDE!Integrated Development Environment|hyperpage}{153}
+\indexentry{library!import|hyperpage}{154}
+\indexentry{python!library!import|hyperpage}{154}
+\indexentry{library!namespace|hyperpage}{154}
+\indexentry{python!library!namespace|hyperpage}{154}
+\indexentry{module|hyperpage}{154}
+\indexentry{excel!read|hyperpage}{155}
+\indexentry{read!excel|hyperpage}{155}
+\indexentry{pandas!read|hyperpage}{155}
+\indexentry{pandas!dataframe|hyperpage}{156}
+\indexentry{dataframe!pandas|hyperpage}{156}
+\indexentry{pandas!head|hyperpage}{156}
+\indexentry{pandas!tail|hyperpage}{156}
+\indexentry{pandas!index|hyperpage}{156}
+\indexentry{index!pandas|hyperpage}{156}
+\indexentry{pandas!iloc|hyperpage}{156}
+\indexentry{iloc!pandas|hyperpage}{156}
+\indexentry{pandas! loc|hyperpage}{157}
+\indexentry{loc!pandas|hyperpage}{157}
+\indexentry{pandas!describe()|hyperpage}{158}
+\indexentry{pandas!dataframe|hyperpage}{158}
+\indexentry{Comma Separated Textfile CSV|hyperpage}{159}
+\indexentry{zip|hyperpage}{160}
+\indexentry{functions!zip|hyperpage}{160}
+\indexentry{snippets|hyperpage}{163}
+\indexentry{pathlib|hyperpage}{163}
+\indexentry{file!extension|hyperpage}{163}
+\indexentry{file!name|hyperpage}{163}
+\indexentry{pathname|hyperpage}{163}
+\indexentry{pathname!fully qualified|hyperpage}{163}
+\indexentry{current working directory|hyperpage}{163}
+\indexentry{pandas!missing data|hyperpage}{163}
+\indexentry{pandas!dropna|hyperpage}{163}
+\indexentry{pandas!sorting data|hyperpage}{163}
+\indexentry{pandas!grouping data|hyperpage}{164}
+\indexentry{pandas!subtotals|hyperpage}{164}
+\indexentry{pivot table|hyperpage}{164}
+\indexentry{pandas!pivot table|hyperpage}{164}
+\indexentry{pandas!data pipeline|hyperpage}{164}
+\indexentry{data pipeline!pandas|hyperpage}{164}
+\indexentry{pandas!date-time data|hyperpage}{165}
+\indexentry{timestamps!unix|hyperpage}{165}
+\indexentry{unix!timestamps|hyperpage}{165}
+\indexentry{Matplotlib!pyplot!procedural interface|hyperpage}{173}
+\indexentry{Matplotlib!pyplot!object oriented interface|hyperpage}{173}
+\indexentry{Matplotlib!scatterplot|hyperpage}{173}
+\indexentry{Matplotlib!show|hyperpage}{173}
+\indexentry{Matplotlib!scatter|hyperpage}{173}
+\indexentry{library!Matplotlib!pyplot!object interface|hyperpage}{173}
+\indexentry{Matplotlib!pyplot!object interface|hyperpage}{173}
+\indexentry{Matplotlib!pyplot!object-oriented interface|hyperpage}{174}
+\indexentry{Matplotlib!plt.show|hyperpage}{174}
+\indexentry{Matplotlib!fig.show|hyperpage}{174}
+\indexentry{Matplotlib!figure size|hyperpage}{176}
+\indexentry{\|hyperpage}{176}
+\indexentry{Matplotlib!title|hyperpage}{177}
+\indexentry{Matplotlib!label|hyperpage}{177}
+\indexentry{Matplotlib!math symbols|hyperpage}{177}
+\indexentry{Matplotlib!legends|hyperpage}{178}
+\indexentry{Matplotlib!text|hyperpage}{178}
+\indexentry{Matplotlib!spines|hyperpage}{178}
+\indexentry{Matplotlib!twinx|hyperpage}{179}
+\indexentry{Matplotlib!secondary y-axis|hyperpage}{179}
+\indexentry{Matplotlib!zorder|hyperpage}{179}
+\indexentry{Matplotlib!twinx|hyperpage}{180}
+\indexentry{Matplotlib!scale|hyperpage}{180}
+\indexentry{Matplotlib!xlim|hyperpage}{180}
+\indexentry{Matplotlib!legend position|hyperpage}{181}
+\indexentry{Matplotlib!plot style|hyperpage}{182}
+\indexentry{Matplotlib!ggplot|hyperpage}{182}
+\indexentry{Matplotlib!tight layout|hyperpage}{183}
+\indexentry{Matplotlib!error bars|hyperpage}{183}
+\indexentry{NumPy!array|hyperpage}{189}
+\indexentry{NumPy!matrix|hyperpage}{189}
+\indexentry{NumPy!transposing|hyperpage}{189}
+\indexentry{NumPy!reshape|hyperpage}{190}
+\indexentry{NumPy!type hinting|hyperpage}{190}
+\indexentry{vector|hyperpage}{190}
+\indexentry{Matplotlib!arrow |hyperpage}{192}
+\indexentry{dictionary!unpacking|hyperpage}{192}
+\indexentry{list!unpacking|hyperpage}{192}
+\indexentry{rotation matrix|hyperpage}{192}
+\indexentry{homogeneous  coordinates|hyperpage}{193}
+\indexentry{statistics!linear regression|hyperpage}{201}
+\indexentry{linear regression!statistics|hyperpage}{201}
+\indexentry{type hinting!external libraries|hyperpage}{201}
+\indexentry{statistics!correlation|hyperpage}{201}
+\indexentry{correlation!statistics|hyperpage}{201}
+\indexentry{statistics!causation|hyperpage}{201}
+\indexentry{causation!statistics|hyperpage}{201}
+\indexentry{Storks|hyperpage}{201}
+\indexentry{statistics!Pearson Correlation Coefficient|hyperpage}{202}
+\indexentry{Pearson Correlation Coefficient!statistics|hyperpage}{202}
+\indexentry{linear regression!rsquare|hyperpage}{204}
+\indexentry{linear regression!coefficient of determination|hyperpage}{204}
+\indexentry{linear regression!variance|hyperpage}{204}
+\indexentry{linear regression!null hypothesis|hyperpage}{204}
+\indexentry{histogram!statistics|hyperpage}{204}
+\indexentry{statistics!histogram|hyperpage}{204}
+\indexentry{Bell Curve!statistics|hyperpage}{204}
+\indexentry{statistics!Bell Curve|hyperpage}{204}
+\indexentry{Gauss distribition!statistics|hyperpage}{204}
+\indexentry{statistics!Gauss distribution|hyperpage}{204}
+\indexentry{library!stat[[file:strk_histogram.png]]smodels|hyperpage}{205}
+\indexentry{library!statsmodels!formula api|hyperpage}{205}
+\indexentry{qqplot!statistics|hyperpage}{208}
+\indexentry{statistics!qqplot|hyperpage}{208}
+\indexentry{statistics!statsmodels|hyperpage}{208}
+\indexentry{statsmodels!statistics|hyperpage}{208}
+\indexentry{linear regression!qqplots|hyperpage}{208}
+\indexentry{qqplots|hyperpage}{208}
+\indexentry{linear regression!Shapiro-Wilk|hyperpage}{209}
+\indexentry{Shapiro-Wilk!statistics|hyperpage}{209}
+\indexentry{statistics!Shapiro-Wilk|hyperpage}{209}
+\indexentry{statistics!confidence intervals|hyperpage}{210}
+\indexentry{confidence intervals|hyperpage}{210}
+\indexentry{statistics!level of significance|hyperpage}{211}
+\indexentry{level of significance!statistics|hyperpage}{211}
+\indexentry{matplotlib!fill-between|hyperpage}{211}
