@@ -1,0 +1,18 @@
+% use fira mono for minted code 
+\usepackage{fontspec}
+% Define Computer Modern Mono as the explicit fallback for missing symbols/glyphs
+\directlua{
+  luaotfload.add_fallback(
+    "MonoFallback",
+    {
+      "NewComputerModernMono10-Regular:mode=node;"
+    }
+  )
+}
+% Configure primary Code/Monospace font
+\setmonofont{Fira Code}[
+  Scale = 0.9,                           % Matches Computer Modern x-height
+  Fallback = MonoFallback,               % Falls back to CM Mono for missing symbols
+  Contextuals = Alternate,               % Enables coding ligatures like '->'
+  StylisticSet = {02}                    % Optional: slashed zero in Fira Code
+]
